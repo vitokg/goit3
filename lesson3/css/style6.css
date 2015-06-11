@@ -15,8 +15,9 @@ label[for*=blue] {
 }
 
 span {
-    padding-left: 2.5px;
-    padding-right: 2.5px;
+    padding-bottom: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
     border-radius: 5px;
 }
 
