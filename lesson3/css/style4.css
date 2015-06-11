@@ -1,0 +1,7 @@
+a[href*=ya] {
+    color: orange;
+}
+
+a[href*=google] {
+    color: gray;
+}
