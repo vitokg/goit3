@@ -1,3 +1,10 @@
+@font-face {
+    font-family: "universalia";
+    src: url("../../fonts/universalia/Universalia.ttf");
+}
+a {
+font-family: "universalia";
+}
 
 a[href*=http] {
     color: #f70;
@@ -8,7 +15,15 @@ a[href*=google] {
 }
 
 a[href*=yandex]::after {
-    content:"" url(../../images/image1.png);
-    padding-left: 5px;
+    content: '\2197';
+    margin-left: 5px;
+    font-family: "universalia";
+    font-size: 80%;
+    font-weight: bolder;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    display: inline-block;
+    height: 10px;
+    line-height: 10px;
 
 }
