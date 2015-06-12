@@ -5,3 +5,9 @@ a[href*=ya] {
 a[href*=google] {
     color: gray;
 }
+
+a[href*=yandex]::after {
+    content:"" url(../../images/image1.png);
+    padding-left: 5px;
+
+}
