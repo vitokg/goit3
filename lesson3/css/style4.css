@@ -2,9 +2,6 @@
     font-family: "universalia";
     src: url("../../fonts/universalia/Universalia.ttf");
 }
-a {
-font-family: "universalia";
-}
 
 a[href*=http] {
     color: #f70;
