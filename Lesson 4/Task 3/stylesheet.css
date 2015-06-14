@@ -1,0 +1,35 @@
+.pages{
+	width:35%;
+	height:35px;
+	background-color: #FAFAFA;
+}
+
+div{
+	display: inline-block;
+	padding: 5px;
+	padding-left: 7px;
+}
+
+.number{
+	height:18px; 
+	width:18px;
+	border:1px solid #DFDFDF;
+	border-radius: 3px;
+	color:#9D29D8;
+	text-align: center;
+	margin-right: 3px;
+}
+
+.number:hover{
+	background-color: #9D29D8;
+	color:white;
+}
+
+.direction{
+	color:#9D29D8;
+}
+
+.direction:hover{
+	background-color: #9D29D8;
+	color:white;
+}
