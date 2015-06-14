@@ -1,6 +1,6 @@
 /*стили для текста */
-p {
-    width: 45%;
+body {
+    width: 44%;
     font-weight: normal;
 }
 p::first-letter
@@ -13,7 +13,7 @@ em {
     background-color: green;
     color: white;  }
 h1 {
-    text-align: center; color: orange;
+    text-align: right; color: orange;
 }
     /*стили для списков */
 div[id="allotment"] h2
