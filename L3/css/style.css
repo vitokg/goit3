@@ -1,4 +1,4 @@
-/*стили для текста */
+/*СЃС‚РёР»Рё РґР»СЏ С‚РµРєСЃС‚Р° */
 body {
     width: 44%;
     font-weight: normal;
@@ -15,7 +15,7 @@ em {
 h1 {
     text-align: right; color: orange;
 }
-    /*стили для списков */
+    /*СЃС‚РёР»Рё РґР»СЏ СЃРїРёСЃРєРѕРІ */
 div[id="allotment"] h2
 {
     color: orange;
@@ -40,7 +40,7 @@ div[id="warehouse"] ol[class="fruits-list"]
 {
     color: green;
 }
-/*стили таблицы*/
+/*СЃС‚РёР»Рё С‚Р°Р±Р»РёС†С‹*/
 [class="students-table"]
 {
     font-weight: bold;
