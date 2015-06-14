@@ -1,0 +1,62 @@
+/*стили для текста */
+p {
+    width: 45%;
+    font-weight: normal;
+}
+p::first-letter
+{
+    font-size: 2em;
+    font-weight: bold;
+    color: red;
+}
+em {
+    background-color: green;
+    color: white;  }
+h1 {
+    text-align: center; color: orange;
+}
+    /*стили для списков */
+div[id="allotment"] h2
+{
+    color: orange;
+}
+div[id="warehouse"] h2
+{
+    color: blue;
+}
+[class="plants-list"]
+{
+    font-weight: bold;
+}
+ol[class="vegetables-list"]
+{
+    color: red;
+}
+div[id="allotment"] ol[class="fruits-list"]
+{
+    color: #999;
+}
+div[id="warehouse"] ol[class="fruits-list"]
+{
+    color: green;
+}
+/*стили таблицы*/
+[class="students-table"]
+{
+    font-weight: bold;
+}
+thead tr {
+    text-align: center;
+}
+tbody
+{
+    background-color: green;
+    text-align: center;
+    color: white;
+}
+tbody td:first-child
+{
+    background-color: white;
+    text-align: left;
+    color: orange;
+}
