@@ -4,6 +4,14 @@ div {
 span {
     color: white;
     border-radius: 7px;
+    display: inline-block;
+    width: 70px;
+    text-align: center;
+}
+label {
+    display: inline-block;
+    width: 70px;
+    text-align: center;
 }
 span[class=red] {
     background-color: red;
@@ -28,20 +36,26 @@ label[for=blue] {
 }
 input:checked[id=red]~span[class=red] {
     background-color: white;
+    width: 0;
 }
 input:checked[id=red]~label[for=red] {
     color: white;
+    width: 0;
 }
 input:checked[id=green]~span[class=green] {
     background-color: white;
+    width: 0;
 }
 input:checked[id=green]~label[for=green] {
     color: white;
+    width: 0;
 }
 input:checked[id=blue]~span[class=blue] {
     background-color: white;
+    width: 0;
 }
 input:checked[id=blue]~label[for=blue] {
     color: white;
+    width: 0;
 }
 
