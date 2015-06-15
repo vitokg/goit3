@@ -55,4 +55,9 @@ input:checked[id=blue]~span[class=blue] {
 input:checked[id=blue]~label[for=blue] {
     opacity: 0.2;
 }
+input {
+    width: 0;
+    margin: 0;
+    visibility: hidden;
+}
 
