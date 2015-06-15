@@ -15,6 +15,7 @@ label[for*=blue] {
 }
 
 span {
+    display: inline-block;
     padding-bottom: 3px;
     padding-left: 5px;
     padding-right: 5px;
@@ -47,14 +48,14 @@ input#green:checked ~ span.green {
 }
 
 input#red:checked ~ label[for*=red] {
-    color: lightcoral;
+    color: #FFE2DE;
 }
 
 input#blue:checked ~ label[for*=blue] {
-    color: lightblue;
+    color: #DADDF6;
 }
 
 input#green:checked ~ label[for*=green] {
-    color: lightgreen;
+    color: #E7FFD0;
 }
 
