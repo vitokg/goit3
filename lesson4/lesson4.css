@@ -65,10 +65,15 @@ ul.dropdown li:hover {
 }
 
 .pager {
-    margin: auto;
+    margin:  auto;
+    width: 100%;
+    position: absolute;
+    bottom: 5%;
+    left: 0;
+    right: 0;
     font-size: 80%;
     color: #A64DFF;
-    width: 670px;
+    width: 620px;
 }
 
 .navi li {
@@ -86,7 +91,11 @@ ul.dropdown li:hover {
     line-height: 20px;
 }
 
-.numbers li:hover {
+.numbers li:active:not([id="none"]) {
     color: #fff;
     background: #A64DFF;
+}
+
+#none {
+    border: none;
 }
