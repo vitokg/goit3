@@ -8,13 +8,30 @@
     src: url("fonts/trebuchet_bold.ttf");
 }
 
-.value {
+.h1_header {
+    color: #41525c;
+    font-family: "trebuchet_bold";
+    text-transform: uppercase;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.offers {
+    width: 870px;
     margin: auto;
+}
+
+.value {
+    z-index: 1px;
+    position: absolute;
+    margin: auto;
+    left: 0;
+    right: 0;
     height: 460px;
     width: 288px;
     border: 3.5px solid #ee8129;
     border-radius: 7px;
-    box-shadow: 0px 0px 8px 2px #cbe2ef;
+    box-shadow: 0px 0px 8px 1px #cbe2ef;
 }
 
 .val_header {
@@ -92,6 +109,7 @@
     color: #888c94;
     padding-left: 33.5px;
 }
+
 .list li::before {
     content: url(img/marker.png);
     padding-right: 15px;
@@ -136,4 +154,64 @@
     top: 3px;
     background: rgb(179, 86, 11);
     color: #D3D3D3;
+}
+
+.other_but {
+    height: 38.5px;
+    width: 251.5px;
+    background: #3371a6;
+    border-radius: 5px;
+    border: none;
+    padding: 0;
+    font-family: "trebuchet_bold";
+    text-transform: uppercase;
+    color: #fff;
+    box-shadow: 0px 3px rgb(19, 66, 107);
+    outline: none;
+}
+
+.other_but:active {
+    box-shadow: none;
+    position: relative;
+    top: 3px;
+    background: rgb(19, 66, 107);
+    color: #D3D3D3;
+}
+
+.value.standart {
+    position: static;
+    float: left;
+}
+
+.value.ultimate {
+    float: right;
+    position: static;
+}
+
+.value.ultimate,
+.value.standart {
+    border: 1px solid #e8eaec;
+    box-shadow: none;
+    margin-top: 11px;
+    height: 441px;
+}
+
+.val_header.standart {
+    background: #37c2d3;
+}
+
+.val_header.ultimate {
+    background: #1cb79a;
+}
+
+.val_header.standart,
+.val_header.ultimate {
+    border-top-right-radius: 6px;
+    border-top-left-radius: 6px;
+    height: 64px;
+}
+
+.bottom.ultimate,
+.bottom.standart {
+    height: 214px;
 }
