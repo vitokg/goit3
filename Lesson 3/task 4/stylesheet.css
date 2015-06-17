@@ -7,7 +7,8 @@ a[href="http://google.com"], a[href="http://maps.google.com"], a[href="http://ne
 }
 
 .outer-link:after {
-  content:"\00A0\00A0\21F1";
+  content:"\21F1";
+  margin-left: 5px;
   display: inline-block;
   transform: rotate(90deg);
 }
