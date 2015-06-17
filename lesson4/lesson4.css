@@ -9,19 +9,21 @@ nav {
     left: 0;
     right: 0;
     margin: auto;
-    background: #A64DFF;
+    background: #1AA4FF;
     height: 40px;
     box-shadow: 0px 0px 17px -7px #000000;
 }
+
 ul li {
     list-style-type: none;
 }
+
 .main li {
     text-transform: uppercase;
     float: left;
     color: #fff;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 12px;
+    padding-right: 12px;
     line-height: 40px;
     position: relative;
 }
@@ -37,52 +39,66 @@ ul li {
 }
 
 .dropdown {
-    margin-left: -20px;
-    padding-left: 0px;
     position: absolute;
     display: none;
-    box-shadow: 0px 0px 17px -7px #000000
+    left: -465px;
+    width: 860px;
+    background: #EEEEEE;
+    box-shadow: 0px 5px 17px -11px #000000;
+
+}
+
+.dropdown li {
+    line-height: 40px;
+    color: #9C9D9B;
+    float: left;
+    text-transform: none;
+    font-family: serif;
+    font-size: 90%;
 }
 
 .dropdown li:last-child {
     margin: 0;
+    float: left;
 }
 
 li:hover .dropdown {
-    display: block;
-}
-
-.dropdown li {
-    background: #EEEEEE;
-    line-height: 25px;
-    width: 100px;
-    color: #9C9D9B;
+    display: inline-block;
 }
 
 ul.dropdown li:hover {
-    background: #A64DFF;
+    background: #1AA4FF;
     color: #fff;
 }
 
 .pager {
-    margin:  auto;
+    margin: auto;
     width: 100%;
     position: absolute;
     bottom: 5%;
     left: 0;
     right: 0;
-    font-size: 80%;
-    color: #A64DFF;
+    font-size: 65%;
+    color: #1AA4FF;
     width: 620px;
+    font-family: sans-serif;
+    text-transform: uppercase;
 }
 
 .navi li {
     float: left;
-    margin: 0 10px;
+    margin-left: 20px;
     height: 22px;
     line-height: 22px;
+    text-align: center;
 }
+
+.numbers li:first-child {
+    margin-left: 20px;
+}
+
 .numbers li {
+    margin: 0 3px;
     height: 20px;
     width: 20px;
     border: 1px solid #DDDDDD;
@@ -91,9 +107,9 @@ ul.dropdown li:hover {
     line-height: 20px;
 }
 
-.numbers li:active:not([id="none"]) {
+.numbers li:hover:not([id="none"]) {
     color: #fff;
-    background: #A64DFF;
+    background: #1AA4FF;
 }
 
 #none {
