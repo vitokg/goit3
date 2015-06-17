@@ -8,5 +8,9 @@ a[href*=google] {
     color: #666;
 }
 a[target=_blank]:after {
-    content: url("images/arrow.png");
+    content:  ' \21F1';
+    text-decoration: none;
+    position: absolute;
+    font-family: Cambria;
+    transform: rotate(90deg);
 }
