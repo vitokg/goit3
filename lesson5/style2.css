@@ -183,13 +183,11 @@
 }
 
 .value.standart {
-    position: static;
     float: left;
 }
 
 .value.ultimate {
     float: right;
-    position: static;
 }
 
 .value.ultimate,
@@ -198,6 +196,7 @@
     box-shadow: none;
     margin-top: 11px;
     height: 441px;
+    position: static;
 }
 
 .val_header.standart {
