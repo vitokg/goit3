@@ -1,5 +1,6 @@
-
-input[type="checkbox"]{ display: none }
+input[type="checkbox"] {
+    display: none
+}
 
 label[for*=red] {
     color: red;
@@ -7,28 +8,25 @@ label[for*=red] {
 
 label[for*=green] {
     color: green;
-
 }
-label[for*=blue] {
 
+label[for*=blue] {
     color: blue;
 }
 
 span {
     display: inline-block;
-    padding-bottom: 3px;
-    padding-left: 5px;
-    padding-right: 5px;
     border-radius: 5px;
+    padding: 0px 5px 3px 5px;
 }
 
 label {
     text-decoration: underline;
 }
+
 span.blue {
     background-color: blue;
     color: white;
-
 }
 
 span.red {
@@ -58,4 +56,3 @@ input#blue:checked ~ label[for*=blue] {
 input#green:checked ~ label[for*=green] {
     color: #E7FFD0;
 }
-
