@@ -112,7 +112,7 @@
 
 .list li::before {
     content: url(img/marker.png);
-    padding-right: 15px;
+    padding-right: 20px;
 }
 
 .list li:nth-child(odd) {
