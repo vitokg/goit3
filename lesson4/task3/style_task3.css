@@ -8,23 +8,33 @@ div {
 ul li {
     float: left;
     margin: auto;
-    padding: 5px 10px 5px 10px;
+    padding: 0px 3px 0px 3px;
     list-style-type: none;
-    display: block;
+    display: inline-block;
 }
-li a {
+a {
     text-decoration: none;
     list-style: none;
+    display: inline-block;
     color: #a562f2;
     font-family: Verdana;
     font-size: 12px;
+    text-align: center;
+    vertical-align: middle;
 }
-.page {
+.button a {
+    margin-top: 10px;
+}
+.number a {
     border: solid #dadada 1px;
+    border-radius: 5px;
+    width: 30px;
+    height: 22px;
     margin: 2px;
-    border-radius: 7px;
+    padding-top: 8px;
+    box-sizing: content-box;
 }
-.page:hover, .number:hover {
-    background-color: #a562f2;;
+.number a:hover {
     color: white;
+    background-color: #a562f2;
 }
