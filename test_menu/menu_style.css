@@ -1,0 +1,27 @@
+div {
+    width: 500px;
+    height: 100px;
+    background-color: #a562f2;
+}
+ul li {
+    display: inline;
+    position: relative;
+    float: left;
+    background-color: #999999;
+}
+ul li a {
+    display: block;
+    position: absolute;
+}
+ul li ul {
+    display: block;
+    position: absolute;
+    visibility: hidden;
+}
+ul li ul li {
+    display: inline;
+    float: none;
+}
+ul li a:hover li {
+    background-color: #ff7700;
+}
