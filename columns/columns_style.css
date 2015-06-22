@@ -1,37 +1,50 @@
-#columns {
-    width: 650px;
-    height: 500px;
-    text-align: center;
+body {
+    padding: 0;
+    margin: 0;
 }
 .header {
     width: 100%;
-    height: 50px;
+    height: 10%;
     outline: solid red 1px;
+    position: absolute;
+    top: 0;
+    text-align: center;
+    margin: 0;
 }
 .menu {
-    width: 19.5%;
-    height: 392px;
+    width: 20%;
+    height: 80%;
     outline: solid green 1px;
-    margin: 3px 3px 0 0;
-    float: left;
+    position: absolute;
+    margin: 0;
+    top: 10%;
+    text-align: center;
 }
 .content {
     width: 60%;
-    height: 392px;
+    height: 80%;
     outline: solid blue 1px;
-    margin: 3px 3px 3px 0;
-    float: left;
+    margin: 0;
+    position: absolute;
+    top: 10%;
+    right: 20%;
+    text-align: center;
 }
 .call_to_action {
-    width: 19.5%;
-    height: 392px;
+    width: 20%;
+    height: 80%;
     outline: solid green 1px;
-    margin: 3px 0 3px 0;
-    float: left;
+    margin: 0;
+    position: absolute;
+    top: 10%;
+    right: 0;
+    text-align: center;
 }
 .footer {
     width: 100%;
-    height: 50px;
+    height: 10%;
     outline: solid red 1px;
-    float: left;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
 }
