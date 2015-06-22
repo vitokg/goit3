@@ -18,7 +18,6 @@ select{
 	padding-top:10px;
 	padding-bottom:2px;
 	border-radius: 0;
-    -webkit-appearance: none;
     overflow: hidden;
     background:url(arrow.png);
     background-repeat: no-repeat;
