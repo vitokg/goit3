@@ -24,6 +24,7 @@ h1{
 	color: #FFFFFF;
 	text-align: center;
 	padding-top: 7px;
+	font-size: 30px;
 }
 
 .information{
@@ -44,6 +45,7 @@ h1{
 	padding-bottom: 26px;
 	font-size: 25px;
 	color:#35495A;
+	font-family: trebuchet_bold;
 }
 
 .ye{
@@ -109,4 +111,31 @@ td{
 .month{
 	font-family: trebuchet_regular;
 	color:#35495A;
+}
+
+
+table{
+	width: 258px;
+	height: 138px;
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+	color:#8D9098;
+}
+
+tr:nth-child(odd){
+	background-color: #EDF5FD;
+	background-image: url(IMG/icon.png);
+	background-repeat: no-repeat;
+	background-position: 39px;
+	background-size: 20px;
+}
+
+tr:nth-child(even){
+	background-color: #F5F5F6;
+	background-image: url(IMG/icon.png);
+	background-repeat: no-repeat;
+	background-position: 39px;
+	background-size: 20px;
 }
