@@ -9,6 +9,7 @@
     } else {
         sing.attachEvent('onclick', clickSign)
     }
+
     if (exit.addEventListener) {
         exit.addEventListener('click', clickToExit, false);
     } else {

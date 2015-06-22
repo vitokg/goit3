@@ -12,9 +12,11 @@
     font-family: "helvetica roman";
     src: url("font/HelveticaRoman.otf");
 }
+
 body {
     background-image: url(img/backgr.jpg)
 }
+
 .dark_monitor {
     position: fixed;
     width: 100%;
@@ -25,8 +27,8 @@ body {
     opacity: .5;
     filter: alpha(opacity=50);
     z-index: 999;
-
 }
+
 .general {
     visibility: hidden;
     position: absolute;
