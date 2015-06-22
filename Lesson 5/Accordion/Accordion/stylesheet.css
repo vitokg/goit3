@@ -1,4 +1,4 @@
-div{
+.topic{
 	margin: 0;
 	border: 0;
 }
@@ -17,16 +17,14 @@ label{
 	font-family: arial;
 	font-size:20px;
 	background-image: linear-gradient(#ffffff, #EBEBEB);
-
-
 }
 
-label:last-of-type{
+.last{
 	border-bottom: 1px solid #C9CCCC;
 }
 
 input{
-display: none;
+	display: none;
 }
 
 span{
@@ -45,23 +43,10 @@ span{
 
 label:hover{
 	background-image:linear-gradient(#ffffff, #ffffff);
-
 }
 
 
-.about{
-	display: none;
-}
-
-.work{
-	display: none;
-}
-
-.references{
-	display: none;
-}
-
-.contact{
+.form{
 	display: none;
 }
 
