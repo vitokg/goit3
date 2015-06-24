@@ -43,53 +43,52 @@
     color: #3170a8;
 }
 
-.staciya,
-.david {
+.client_comm_right,
+.client_comm_left {
     width: 489.5px;
     height: 100%;
 }
 
-.staciya {
+.client_comm_left {
     float: left;
 }
 
-.david {
+.client_comm_right {
     float: right;
 }
 
-.triangle {
+.comment {
     position: relative;
+    margin: 0;
+    width: 365px;
+    height: 98.5px;
+    background: #fff;
+    float: right;
+}
+
+.comment::before {
+    content: '';
+    position: absolute;
     width: 0;
     height: 0;
     border-top: 11.5px solid transparent;
     border-right: 14.5px solid #FFF;
     border-bottom: 11.5px solid transparent;
-    float: right;
     top: 50%;
     margin-top: -11px;
-}
-
-.comment {
-    width: 365px;
-    height: 100%;
-    background: #fff;
-    float: right;
-}
-
-.comment_header {
-    height: 37.5px;
-    width: 330.5px;
-    border-bottom: 1px dotted #666;
-    margin-left: 15.5px;
+    margin-left: -14px;
 }
 
 .p_com_head {
     line-height: 37.5px;
     margin: 0;
+    margin-left: 15.5px;
+    width: 330.5px;
     height: 37.5px;
     font-size: 13px;
     color: #3070a8;
     font-family: "trebuchet_italic";
+    border-bottom: 1px dotted #666;
 }
 
 .name {
@@ -100,15 +99,11 @@
     float: right;
 }
 
-.comm_body {
-    margin-left: 15.5px;
-    width: 330.5px;
-    height: 59.5px;
-}
-
 .p_com_body {
+    width: 330.5px;
     height: 49px;
     margin: 0px;
+    margin-left: 15.5px;
     font-size: 13px;
     color: #666;
     padding-top: 10.5px;
