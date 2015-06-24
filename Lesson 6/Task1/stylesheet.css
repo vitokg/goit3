@@ -8,10 +8,18 @@
     src: url("fonts/trebuchet_bold.ttf");
 }
 
+.first{
+	color:#374A56;
+	font-family: trebuchet_bold;
+	text-align: center;
+}
 .wrapper{
 	width: 100%;
 	height: 2px;
 	position: absolute;
+	top:100px;
+	text-align: center;
+
 }
 
 .form{
@@ -154,4 +162,24 @@ td{
 	line-height: 48px;
 	margin-right: auto;
 	margin-left: auto;
+}
+
+.orange .bottom:active{
+	background-color: #AC4700;
+	border-bottom: 2px solid #EE8129;
+}
+
+.orange .bottom:hover{
+	cursor: pointer;
+	background-color: #FFA500;
+}
+
+.bottom:active{
+	background-color: #00335F;
+	border-bottom: 2px solid #2F70A8;
+}
+
+.bottom:hover{
+	cursor: pointer;
+	background-color: #4682B4;
 }
