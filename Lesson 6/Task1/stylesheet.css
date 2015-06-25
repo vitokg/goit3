@@ -40,7 +40,7 @@
 	height: 410px;
 }
 
-.orange .bottom{
+.orangeClick{
 	background-color: #EE8129;
 	border-bottom:4px solid #AC4700;
 }
@@ -102,6 +102,7 @@
 	padding-left: 70px;
 	vertical-align: top;
 	color:#35495A;
+	font-family: trebuchet_bold;
 }
 
 .price{
@@ -109,11 +110,13 @@
 	font-weight: bold;
 	vertical-align: bottom;
 	color:#35495A;
+	font-family: trebuchet_bold
 }
 
 .month{
 	font-family: trebuchet_regular;
 	color:#35495A;
+	font-family: trebuchet_bold
 }
 
 table{
@@ -123,6 +126,7 @@ table{
 	margin-left: auto;
 	color:#959AA2;
 	margin-top: 10px;
+	text-align: left;
 }
 
 tr:nth-child(odd){
@@ -149,7 +153,7 @@ td{
 	padding-left: 73px;
 }
 
-.bottom{
+button{
 	width: 283px;
 	height:48px;
 	color:#2F70A8;
@@ -159,27 +163,28 @@ td{
 	color:#ffffff;
 	font-family: trebuchet_bold;
 	text-align: center;
-	line-height: 48px;
 	margin-right: auto;
 	margin-left: auto;
+	vertical-align: middle;
+	margin-top: 10px;
 }
 
-.orange .bottom:active{
+.orangeClick:active{
 	background-color: #AC4700;
 	border-bottom: 2px solid #EE8129;
 }
 
-.orange .bottom:hover{
+button:hover{
 	cursor: pointer;
 	background-color: #FFA500;
 }
 
-.bottom:active{
+button:active{
 	background-color: #00335F;
 	border-bottom: 2px solid #2F70A8;
 }
 
-.bottom:hover{
+button:hover{
 	cursor: pointer;
 	background-color: #4682B4;
 }
