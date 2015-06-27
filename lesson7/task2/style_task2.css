@@ -1,0 +1,214 @@
+.body {
+    margin: 0;
+    padding: 0;
+    width: 2841px;
+    height: 3309px;
+    font-size: 36px;
+}
+header {
+    width: 49.271485%;
+    height: 116px;
+    left: 25.48%;
+    top: 0;
+    margin: 0 auto;
+    position: absolute;
+    background-color: #ff0000;
+}
+.services {
+    width: 49.271485%;
+    height: 566px;
+    left: 25.48%;
+    top: 701px;
+    margin: 0;
+    position: absolute;
+    background-color: #c2c2c2;
+}
+.middle_section {
+    width: 49.271485%;
+    height: 581px;
+    left: 25.48%;
+    top: 1267px;
+    margin: 0;
+    position: absolute;
+    background-color: #f5861f;
+}
+.pricing {
+    width: 49.271485%;
+    height: 710px;
+    left: 25.48%;
+    top: 1848px;
+    margin: 0;
+    position: absolute;
+    background-color: mediumorchid;
+}
+.clients_says {
+    width: 49.271485%;
+    height: 312px;
+    left: 25.48%;
+    top: 2558px;
+    margin: 0;
+    position: absolute;
+    background-color: #2d438e;
+}
+.map {
+    width: 49.271485%;
+    height: 335px;
+    left: 25.48%;
+    top: 2870px;
+    margin: 0;
+    position: absolute;
+    background-color: lightpink;
+}
+footer {
+    width: 49.271485%;
+    height: 104px;
+    left: 25.48%;
+    top: 3205px;
+    position: absolute;
+    background-color: turquoise;
+}
+/*Fonts*/
+@font-face {
+    font-family: Futura BT Book;
+    src: url(fonts/ufonts.com_futurabt-book-opentype.otf);
+}
+@font-face {
+    font-family: Calibry Italic;
+    src: url(fonts/Calibri%20Italic.ttf);
+}
+@font-face {
+    font-family: "Trebuchet MS";
+    src: url(fonts/Trebuchet%20MS%20Bold.ttf);
+}
+
+
+/*Header*/
+
+/*Logo*/
+.logo {
+    position: absolute;
+    float: left;
+    background-color: yellow;
+    width: 31.64%;
+    height: 100%;
+    padding: 19px 0 0 30px;
+    margin: 0;
+    font-size: 3em;
+    font-family: 'Futura BT Book', sans-serif;
+}
+.company {
+    color: #ee8129;
+}
+.name {
+    color: #3070a8;
+}
+/*Menu*/
+nav {
+    position: absolute;
+    left: 31.64%;
+    width: 68.36%;
+    padding: 0;
+    margin: 0;
+}
+nav ul li {
+    display: block;
+    background-color: white;
+    float: left;
+    margin-top: 70px;
+    padding: 0 15px 10px 15px;
+
+}
+nav ul li a {
+    color: #d6d6d6;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.2em;
+}
+nav ul li a:hover {
+    color: #3070a8;
+}
+nav ul li:hover {
+    border-bottom: solid #3070a8 3px;
+}
+/*Banner*/
+.banner {
+    width: 49.271485%;
+    height: 585px;
+    left: 25.48%;
+    top: 116px;
+    margin: 0;
+    position: absolute;
+    background-size: cover;
+    background: url("images/banner.png")  no-repeat;
+    color: white;
+    text-align: center;
+}
+.banner_cover {
+    width: 49.271485%;
+    height: 585px;
+    left: 25.48%;
+    top: 116px;
+    margin: 0;
+    position: absolute;
+    background-color: rgba(5, 75, 172, 0.5);
+    opasity: 0.5;
+}
+.banner1 {
+    font-family: 'Futura BT Book', sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    display: inline-block;
+    position: absolute;
+    z-index: 10;
+    width: 100%;
+    margin: 153px 0 0 0;
+    left: 0;
+}
+.banner2 {
+    font-family: 'Futura BT Book', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    display: inline-block;
+    position: absolute;
+    z-index: 10;
+    width: 100%;
+    margin: 202px 0 0 0;
+    left: 0;
+}
+.banner3 {
+    font-family: Calibry, sans-serif;
+    font-style: italic;
+    font-size: 20px;
+    display: inline-block;
+    position: absolute;
+    z-index: 10;
+    width: 100%;
+    margin: 325px 0 0 0;
+    left: 0;
+}
+.button a {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    display: inline-block;
+    width: 245px;
+    height: 41px;
+    margin: 418px 0 0 0;
+    padding: 17px 0 0 0;
+    text-decoration: none;
+    outline: solid white 1px;
+    color: white;
+    position: absolute;
+    z-index: 10;
+    left: 41.29%;
+}
+/*Banner END*/
+.services_name {
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 30px;
+    color: #41525c;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    position: absolute;
+}
