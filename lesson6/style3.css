@@ -26,7 +26,7 @@
     padding-top: 50px;
 }
 
-.p_header {
+.h2_header {
     margin: 0px;
     font-size: 40px;
     text-transform: uppercase;
@@ -35,11 +35,11 @@
     font-family: "trebuchet_regular";
 }
 
-.first {
+.first_in_header {
     color: #ee8129;
 }
 
-.second {
+.second_in_header {
     color: #3170a8;
 }
 
