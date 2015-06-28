@@ -51,12 +51,10 @@ label {
 
 .search:hover {
     width: 668px;
-    transition: all 1.5s;
 }
 
 .search:hover ~ .tr {
     margin-left: 668px;
-    transition: all 1.5s;
 }
 
 input.text:hover {
