@@ -30,6 +30,10 @@ input.text {
 .submit {
     width: 67px;
     height: 26px;
+    display: block;
+    position: relative;
+    margin-left: 466px;
+    margin-top: -27px;
 }
 
 input.checkbox {
