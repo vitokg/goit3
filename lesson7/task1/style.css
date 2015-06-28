@@ -11,7 +11,7 @@ body {
 .table div p {
     text-transform: uppercase;
     font-family: sans-serif;
-    color: rgba(0, 0, 0, 0);
+    color: rgba(84, 84, 84, 0.26);
     text-shadow: 0px 0px 5px rgba(0, 0, 0, 1);
 }
 
