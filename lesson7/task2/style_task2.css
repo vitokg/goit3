@@ -19,6 +19,10 @@ body {
     font-family: "Trebuchet MS";
     src: url(fonts/Trebuchet%20MS%20Bold.ttf);
 }
+@font-face {
+    font-family: MyriadPro;
+    src: url(fonts/MyriadPro-Regular.otf);
+}
 /*Fonts END*/
 
 /*GENERAL END*/
@@ -31,48 +35,53 @@ header {
     top: 0;
     margin: 0 auto;
     position: absolute;
-    background-color: #ff0000;
+    background-color: white;
 }
 /*Logo*/
 .logo {
     position: absolute;
     float: left;
-    background-color: yellow;
-    width: 31.64%;
+    width: 441px;
+    left: 12.71%;
     height: 100%;
-    padding: 19px 0 0 30px;
+    padding: 35px 0 0 30px;
     margin: 0;
-    font-size: 3em;
     font-family: 'Futura BT Book', sans-serif;
 }
 
 .company {
     color: #ee8129;
+    font-size: 36px;
 }
 
 .name {
     color: #3070a8;
+    font-size: 36px;
+    font-weight: bolder;
 }
 
 /*Menu*/
 nav {
     position: absolute;
-    left: 31.64%;
+    left: 43.95%;
     width: 68.36%;
     padding: 0;
     margin: 0;
+    font-size: 14px;
+    font-family: MyriadPro, sans-serif;
+    top: 60px;
 }
 
-nav ul li {
+.banner_navigation li {
     display: block;
     background-color: white;
-    float: left;
+    float: left;.
     margin-top: 70px;
-    padding: 0 15px 10px 15px;
+    padding: 0 15px 17px 15px;
 
 }
 
-nav ul li a {
+.banner_navigation li a {
     color: #d6d6d6;
     text-decoration: none;
     font-weight: bold;
@@ -80,11 +89,11 @@ nav ul li a {
     font-size: 1.2em;
 }
 
-nav ul li a:hover {
+.banner_navigation li a:hover {
     color: #3070a8;
 }
 
-nav ul li:hover {
+.banner_navigation li:hover {
     border-bottom: solid #3070a8 3px;
 }
 
@@ -104,25 +113,23 @@ nav ul li:hover {
 
 .banner1 {
     font-family: 'Futura BT Book', sans-serif;
-    font-weight: bold;
-    font-size: 14px;
+    font-size: 36px;
     display: inline-block;
     position: absolute;
     z-index: 10;
     width: 100%;
-    margin: 153px 0 0 0;
+    margin: 145px 0 0 0;
     left: 0;
 }
 
 .banner2 {
     font-family: 'Futura BT Book', sans-serif;
-    font-weight: bold;
     font-size: 40px;
     display: inline-block;
     position: absolute;
     z-index: 10;
     width: 100%;
-    margin: 202px 0 0 0;
+    margin: 180px 0 0 0;
     left: 0;
 }
 
@@ -134,7 +141,7 @@ nav ul li:hover {
     position: absolute;
     z-index: 10;
     width: 100%;
-    margin: 325px 0 0 0;
+    margin: 280px 0 0 0;
     left: 0;
 }
 
@@ -144,7 +151,7 @@ nav ul li:hover {
     display: inline-block;
     width: 245px;
     height: 41px;
-    margin: 418px 0 0 0;
+    margin: 380px 0 0 0;
     padding: 17px 0 0 0;
     text-decoration: none;
     outline: solid white 1px;
@@ -219,7 +226,62 @@ span.services {
     background-size: cover;
     background: url("images/middle_section.png") no-repeat;
 }
+.line_big_orange {
+    font-family: 'Futura BT Book', sans-serif;
+    font-size: 26px;
+    line-height: 1.846;
+    text-transform: uppercase;
+    color: #ee8129;
+    margin-top: 87px;
+    display: inline-block;
+    position: absolute;
+    left: 12.71%;
 
+}
+
+.line_italic_white {
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+    font-size: 19px;
+    line-height: 1.579;
+    color: #ffffff;
+    margin-top: 175px;
+    display: inline-block;
+    position: absolute;
+    left: 12.71%;
+    padding: 0;
+}
+
+.line_small_grey1, .line_small_grey2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 2.143;
+    color: #9d9d9d;
+}
+
+.middle_section_list {
+    display: inline-block;
+    position: absolute;
+    margin-top: 220px;
+    height: 300px;
+    width: 100%;
+    left: 12.71%;
+}
+
+.line_small_grey1 {
+
+}
+
+.line_small_grey2 {
+
+}
+
+.line_small_blue {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 2.143;
+    color: #2c5c86;
+}
 
 
 /*Middle section END*/
@@ -270,7 +332,7 @@ span.services {
 }
 
 .poster_header2 {
-    background-color: #e06b1a;
+    background-color: #ee8129;
 }
 
 .poster_header3 {
@@ -308,7 +370,7 @@ sup {
     font-weight: bold;
 }
 
-p {
+.poster_body p {
     display: inline-block;
     height: 55px;
     margin: 10px 0 0 0;
@@ -326,12 +388,12 @@ a {
     padding: 0;
 }
 
-ul {
+.service_list {
     padding-left: 0;
     margin-top: 50px;
 }
 
-ul li {
+.service_list li {
     font-family: Calibry, sans-serif;
     display: block;
     font-size: 15px;
@@ -342,19 +404,19 @@ ul li {
     margin-top: 1px;
 }
 
-ul li:before {
+.service_listli:before {
     content: url("images/galochka.png");
 }
 
-ul li:nth-of-type(2n) {
+.service_list li:nth-of-type(2n) {
     background: #f5f5f5;
 }
 
-ul li:nth-of-type(2n+1) {
+.service_list li:nth-of-type(2n+1) {
     background: rgba(204, 228, 250, 0.42);
 }
 
-ul li a {
+.service_list li a {
     color: #999999;
 }
 
@@ -491,7 +553,7 @@ p {
     position: absolute;
     margin: 29px 0 0 0;
 }
-.name {
+.clients_says_name {
     font-family: 'Open Sans', sans-serif;
     font-style: italic;
     color: #3070a8;
