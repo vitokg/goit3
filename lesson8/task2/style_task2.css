@@ -7,14 +7,14 @@
     font-family: 'Open Sans', sans-serif;
     font-size: 13px;
 }
-.text {
+#text {
     width: 450px;
     box-shadow: -1px -1px 1px #a3a3a3;
     position: relative;
     float: left;
     margin: 5px 5px 0 5px;
 }
-.button {
+#button {
     position: relative;
     margin: 5px;
     font-family: 'Open Sans', sans-serif;
@@ -35,12 +35,13 @@
 }
 label {
     margin: 0 5px 10px 5px;
-}
-span {
     border-bottom: dotted #000000 2px;
 }
+span {
+    margin-left: 5px;
+}
 .search:hover {
-    height: 70px;
+    width: 600px;
 }
 .search:hover:after {
     content: ".";
@@ -48,10 +49,10 @@ span {
     width: 0;
     height: 0;
     border-left: solid #FFBD40 12px;
-    border-top: solid transparent 34px;
+    border-top: solid transparent 26px;
     border-right: solid transparent 12px;
-    border-bottom: solid transparent 34px;
+    border-bottom: solid transparent 26px;
     position: absolute;
-    left: 550px;
+    left: 600px;
     top: 2px;
 }
