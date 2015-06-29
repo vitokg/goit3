@@ -6,8 +6,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="770ce27a-80c6-4957-be22-8515c2b51fc2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson8/task2/style_task2.css" afterPath="$PROJECT_DIR$/lesson8/task2/style_task2.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson8/task2/task2.html" afterPath="$PROJECT_DIR$/lesson8/task2/task2.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="goit3.iws" />
@@ -471,7 +469,13 @@
       <option name="project" value="LOCAL" />
       <updated>1435578769562</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="update">
+      <created>1435590545975</created>
+      <option name="number" value="00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1435590545975</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="ToolWindowManager">
