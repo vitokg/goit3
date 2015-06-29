@@ -9,7 +9,6 @@
     padding: 15px 15px 15px 0;
     position: absolute;
     z-index: 1;
-    color: transparent;
     text-shadow: 0 0 7px rgba(0, 0, 0, 0.95);
     transition: all 5s ease-out;
     -webkit-transition: all 5s ease-out;

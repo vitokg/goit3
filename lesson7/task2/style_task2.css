@@ -1,89 +1,38 @@
-.body {
-    margin: 0;
-    padding: 0;
-    width: 2841px;
-    height: 3309px;
-    font-size: 36px;
-}
-header {
-    width: 49.271485%;
-    height: 116px;
-    left: 25.48%;
-    top: 0;
-    margin: 0 auto;
-    position: absolute;
-    background-color: #ff0000;
-}
-.services {
-    width: 49.271485%;
-    height: 566px;
-    left: 25.48%;
-    top: 701px;
-    margin: 0;
-    position: absolute;
-    background-color: #c2c2c2;
-}
-.middle_section {
-    width: 49.271485%;
-    height: 581px;
-    left: 25.48%;
-    top: 1267px;
-    margin: 0;
-    position: absolute;
-    background-color: #f5861f;
-}
-.pricing {
-    width: 49.271485%;
-    height: 710px;
-    left: 25.48%;
-    top: 1848px;
-    margin: 0;
-    position: absolute;
-    background-color: mediumorchid;
-}
-.clients_says {
-    width: 49.271485%;
-    height: 312px;
-    left: 25.48%;
-    top: 2558px;
-    margin: 0;
-    position: absolute;
-    background-color: #2d438e;
-}
-.map {
-    width: 49.271485%;
-    height: 335px;
-    left: 25.48%;
-    top: 2870px;
-    margin: 0;
-    position: absolute;
-    background-color: lightpink;
-}
-footer {
-    width: 49.271485%;
-    height: 104px;
-    left: 25.48%;
-    top: 3205px;
-    position: absolute;
-    background-color: turquoise;
+/*GENERAL*/
+body {
+    background-color: #2e2e2e;
+    width: 100%;
+    height: 100%;
 }
 /*Fonts*/
 @font-face {
     font-family: Futura BT Book;
     src: url(fonts/ufonts.com_futurabt-book-opentype.otf);
 }
+
 @font-face {
     font-family: Calibry Italic;
     src: url(fonts/Calibri%20Italic.ttf);
 }
+
 @font-face {
     font-family: "Trebuchet MS";
     src: url(fonts/Trebuchet%20MS%20Bold.ttf);
 }
+/*Fonts END*/
 
+/*GENERAL END*/
 
 /*Header*/
-
+header {
+    width: 74.19%;
+    height: 116px;
+    left: 12.71%;
+    top: 0;
+    margin: 0 auto;
+    position: absolute;
+    background-color: #ff0000;
+}
 /*Logo*/
 .logo {
     position: absolute;
@@ -96,12 +45,15 @@ footer {
     font-size: 3em;
     font-family: 'Futura BT Book', sans-serif;
 }
+
 .company {
     color: #ee8129;
 }
+
 .name {
     color: #3070a8;
 }
+
 /*Menu*/
 nav {
     position: absolute;
@@ -110,6 +62,7 @@ nav {
     padding: 0;
     margin: 0;
 }
+
 nav ul li {
     display: block;
     background-color: white;
@@ -118,6 +71,7 @@ nav ul li {
     padding: 0 15px 10px 15px;
 
 }
+
 nav ul li a {
     color: #d6d6d6;
     text-decoration: none;
@@ -125,35 +79,29 @@ nav ul li a {
     font-family: 'Open Sans', sans-serif;
     font-size: 1.2em;
 }
+
 nav ul li a:hover {
     color: #3070a8;
 }
+
 nav ul li:hover {
     border-bottom: solid #3070a8 3px;
 }
+
 /*Banner*/
 .banner {
-    width: 49.271485%;
+    width: 74.19%;
     height: 585px;
-    left: 25.48%;
+    left: 12.71%;
     top: 116px;
     margin: 0;
     position: absolute;
     background-size: cover;
-    background: url("images/banner.png")  no-repeat;
+    background: url("images/banner.png") no-repeat;
     color: white;
     text-align: center;
 }
-.banner_cover {
-    width: 49.271485%;
-    height: 585px;
-    left: 25.48%;
-    top: 116px;
-    margin: 0;
-    position: absolute;
-    background-color: rgba(5, 75, 172, 0.5);
-    opasity: 0.5;
-}
+
 .banner1 {
     font-family: 'Futura BT Book', sans-serif;
     font-weight: bold;
@@ -165,6 +113,7 @@ nav ul li:hover {
     margin: 153px 0 0 0;
     left: 0;
 }
+
 .banner2 {
     font-family: 'Futura BT Book', sans-serif;
     font-weight: bold;
@@ -176,6 +125,7 @@ nav ul li:hover {
     margin: 202px 0 0 0;
     left: 0;
 }
+
 .banner3 {
     font-family: Calibry, sans-serif;
     font-style: italic;
@@ -187,6 +137,7 @@ nav ul li:hover {
     margin: 325px 0 0 0;
     left: 0;
 }
+
 .button a {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
@@ -202,7 +153,26 @@ nav ul li:hover {
     z-index: 10;
     left: 41.29%;
 }
+
 /*Banner END*/
+
+/*Services*/
+.services {
+    width: 74.19%;
+    height: 566px;
+    left: 12.71%;
+    top: 701px;
+    margin: 0;
+    position: absolute;
+    background-color: #ffffff;
+}
+
+.services_container {
+    position: absolute;
+    left: 13.65%;
+    right: 13.65%;
+}
+
 .services_name {
     font-family: "Trebuchet MS", sans-serif;
     font-size: 30px;
@@ -210,8 +180,365 @@ nav ul li:hover {
     text-align: center;
     display: inline-block;
     width: 100%;
-    position: absolute;
+    margin: 67px 0 0 0;
 }
+
+span.services {
+    display: inline-block;
+}
+
+.services_property {
+    width: 33.33%;
+    float: left;
+    left: 13.65%;
+    text-align: center;
+    margin: 77px 0 0 0;
+}
+.property_name {
+    font-family: 'Futura BT Book', sans-serif;
+    font-size: 30px;
+    color: #3070a8;
+}
+.property_description {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #999999;
+    display: inline-block;
+    width: 300px;
+}
+/*Services END*/
+
+/*Middle section*/
+.middle_section {
+    width: 74.19%;
+    height: 581px;
+    left: 12.71%;
+    top: 1267px;
+    margin: 0;
+    position: absolute;
+    background-size: cover;
+    background: url("images/middle_section.png") no-repeat;
+}
+
+
+
+/*Middle section END*/
+
+/*Pricing*/
+.pricing {
+    width: 74.19%;
+    height: 710px;
+    left: 12.71%;
+    top: 1848px;
+    margin: 0;
+    position: absolute;
+    background-color: white;
+}
+.pricing_name {
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 30px;
+    color: #41525c;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    margin: 67px 0 0 0;
+}
+.posters {
+    width: 885px;
+    height: 350px;
+    position: absolute;
+    left: 18.82%;
+    right: 18.82%;
+    top: 172px;
+}
+.poster_container1, .poster_container2, .poster_container3 {
+    width: 289px;
+    height: 439px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(90, 90, 90, 0.56);
+    float: left;
+    margin: 10px 1px 10px 1px;
+    -webkit-transition: width 0.3s;
+    -moz-transition: width 0.3s;
+    -ms-transition: width 0.3s;
+    -o-transition: width 0.3s;
+    transition: width 0.3s;
+}
+
+.poster_header1 {
+    background-color: #63d0e7;
+}
+
+.poster_header2 {
+    background-color: #e06b1a;
+}
+
+.poster_header3 {
+    background-color: #4ad496;
+}
+
+.poster_header1, .poster_header2, .poster_header3 {
+    font-family: "Trebuchet MS", sans-serif;
+    height: 36px;
+    border-radius: 6px 6px 0 0;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.poster_body {
+    font-family: 'Futura BT Book', sans-serif;
+    font-size: 24px;
+    height: 90px;
+    text-align: center;
+    padding: 7px 0 0 0;
+    color: #6d6d6d;
+}
+
+span.price {
+    font-size: 72px;
+    font-weight: bolder;
+}
+
+sup {
+    display: inline-block;
+    position: absolute;
+    font-weight: bold;
+}
+
+p {
+    display: inline-block;
+    height: 55px;
+    margin: 10px 0 0 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.poster_menu {
+    margin: auto;
+    width: 255px;
+    padding: 0;
+}
+
+ul {
+    padding-left: 0;
+    margin-top: 50px;
+}
+
+ul li {
+    font-family: Calibry, sans-serif;
+    display: block;
+    font-size: 15px;
+    font-weight: bold;
+    width: auto;
+    height: 31px;
+    padding: 5px 0 0 24px;
+    margin-top: 1px;
+}
+
+ul li:before {
+    content: url("images/galochka.png");
+}
+
+ul li:nth-of-type(2n) {
+    background: #f5f5f5;
+}
+
+ul li:nth-of-type(2n+1) {
+    background: rgba(204, 228, 250, 0.42);
+}
+
+ul li a {
+    color: #999999;
+}
+
+.poster_button1, .poster_button3 {
+    background-color: #407cb3;
+    border-bottom: solid #294164 2px;
+}
+
+.poster_button2 {
+    background-color: #ee6d1a;
+    border-bottom: solid #a54e28 2px;
+}
+
+.poster_button1, .poster_button2, .poster_button3 {
+    font-family: 'Open Sans', sans-serif;
+    margin: auto;
+    width: 251px;
+    height: 31px;
+    text-align: center;
+    padding-top: 5px;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.poster_button1 a, .poster_button2 a, .poster_button3 a {
+    color: white;
+    width: 251px;
+    height: 17px;
+    display: block;
+    padding: 2px 0 5px 0;
+}
+
+.poster_container1:hover {
+    border: solid #63d0e7 3px;
+}
+
+.poster_container2:hover {
+    border: solid #e06b1a 3px;
+
+}
+
+.poster_container3:hover {
+    border: solid #4ad496 3px;
+
+}
+
+.poster_container1:hover, .poster_container2:hover, .poster_container3:hover {
+    border-radius: 10px;
+    margin: 0;
+    width: 295px;
+    height: 445px;
+    z-index: 10;
+}
+
+
+/*Pricing END*/
+
+/*Clients says*/
+.clients_says {
+    width: 74.19%;
+    height: 312px;
+    left: 12.71%;
+    top: 2558px;
+    margin: 0;
+    position: absolute;
+    background-color: #2d438e;
+}
+.poster {
+    width: 100%;
+    height: 312px;
+    background-image: url("images/client_says.png");
+    margin: auto;
+    position: relative;
+    font-family: 'Oswald', sans-serif;
+}
+.question {
+    display: inline-block;
+    width: 100%;
+    margin: auto;
+}
+p {
+    display: block;
+    position: relative;
+    text-align: center;
+    font-family: 'Futura BT Book', sans-serif;
+    margin-top: 58px;
+}
+.orange {
+    color: #ff901c;
+    font-size: 40px;
+}
+.blue {
+    color: #3a699a;
+    font-size: 40px;
+    font-weight: bold;
+}
+.foto1, .foto2 {
+    float: left;
+    position: absolute;
+    top: 137px;
+}
+.foto1 {
+    left: 13.39%;
+}
+.foto2 {
+    left: 51.17%;
+}
+.comment1, .comment2 {
+    background-color: aliceblue;
+    margin: 0;
+    font-size: 11px;
+    position: absolute;
+    top: 137px;
+    width: 364px;
+    height: 80px;
+    padding: 10px;
+}
+.comment1 {
+    left: 21.5%;
+}
+.comment2 {
+    left: 59.1%;
+}
+.comment1:before, .comment2:before {
+    content: ".";
+    color: white;
+    width: 0;
+    height: 0;
+    border-right: solid #ff2020 14px;
+    border-top: solid transparent 10px;
+    border-left: solid transparent 4px;
+    border-bottom: solid transparent 10px;
+    position: absolute;
+    margin: 29px 0 0 0;
+}
+.name {
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+    color: #3070a8;
+    font-weight: bold;
+    font-size: 13px;
+}
+.empty {
+    color: aliceblue;
+    letter-spacing: 6px;
+}
+.report {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+    color: #666666;
+}
+hr {
+    border: 0.1em dotted #c2c2c2;
+}
+
+/*Clients says END*/
+
+/*Map*/
+.map {
+    width: 74.19%;
+    height: 335px;
+    left: 12.71%;
+    top: 2870px;
+    margin: 0;
+    position: relative;
+    float: left;
+    background-color: white;
+}
+.map_image {
+
+}
+/*Map END*/
+
+/*Footer*/
+footer {
+    width: 74.19%;
+    height: 104px;
+    left: 12.71%;
+    top: 3205px;
+    position: absolute;
+    background-color: turquoise;
+}
+/*Footer END*/
 
 
 
