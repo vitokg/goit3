@@ -18,14 +18,9 @@
 
 .line1 {
     font-size: 1.1em;
-    letter-spacing: 0.3em;
+    letter-spacing: 0.7em;
     height: 15%;
     margin-right: 0;
-}
-
-span {
-    color: white;
-    text-shadow: none;
 }
 
 .line2 {
