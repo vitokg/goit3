@@ -3,12 +3,12 @@ body{
 }
 .wrapper{
 	width: 402px;
-	height:1122%;
 }
 div{
 	text-shadow: #3E3E3E 0 0 8px;
     color: transparent;
 }
+
 .a1{
 	font-size: 7.3em;
 	word-spacing: 1.5171em;
@@ -21,7 +21,7 @@ div{
 
 .a3{
 	font-size: 5.879em;
-	word-spacing: 0.0313em;
+	word-spacing: 0.031em;
 }
 
 .a4{
@@ -57,6 +57,7 @@ div{
 .a10{
 	font-size: 1.3em;
 	word-spacing: 1.62em;
+	border-bottom:1px solid red;
 }
 
 .a11{
@@ -67,8 +68,4 @@ div{
 .a12{
 	font-size: 0.8em;
 	word-spacing: 3.33em;
-}
-
-hr{
-	border:1px solid #EB5A46;
 }
