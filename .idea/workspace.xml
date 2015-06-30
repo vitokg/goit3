@@ -6,8 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="770ce27a-80c6-4957-be22-8515c2b51fc2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/search/search.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/search/search_style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code review/lesson6_task2_Evgeniya/Lesson 6.Task2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code review/lesson6_task2_Evgeniya/stylesheet.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson7/task2/style_task2.css" afterPath="$PROJECT_DIR$/lesson7/task2/style_task2.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson7/task2/task2.html" afterPath="$PROJECT_DIR$/lesson7/task2/task2.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="goit3.iws" />
@@ -29,21 +31,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="search.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/search/search.html">
+      <file leaf-file-name="task2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson7/task2/task2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.33142203">
-              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-              <folding />
+            <state vertical-scroll-proportion="-19.153847">
+              <caret line="182" column="25" selection-start-line="182" selection-start-column="25" selection-end-line="182" selection-end-column="25" />
+              <folding>
+                <element signature="n#span#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="search_style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/search/search_style.css">
+      <file leaf-file-name="style_task2.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson7/task2/style_task2.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.6781737">
+              <caret line="591" column="26" selection-start-line="591" selection-start-column="26" selection-end-line="591" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -103,14 +107,16 @@
         <option value="$PROJECT_DIR$/lesson8/task1/task1.html" />
         <option value="$PROJECT_DIR$/lesson8/task2/style_task2.css" />
         <option value="$PROJECT_DIR$/lesson8/task2/task2.html" />
-        <option value="$PROJECT_DIR$/lesson7/task2/task2.html" />
-        <option value="$PROJECT_DIR$/lesson7/task2/style_task2.css" />
         <option value="$PROJECT_DIR$/lesson6/task1/task1.html" />
         <option value="$PROJECT_DIR$/lesson6/task1/task1_style.css" />
         <option value="$PROJECT_DIR$/lesson7/task1/index.html" />
         <option value="$PROJECT_DIR$/lesson7/task1/style.css" />
         <option value="$PROJECT_DIR$/search/search.html" />
         <option value="$PROJECT_DIR$/search/search_style.css" />
+        <option value="$PROJECT_DIR$/code review/lesson6_task2_Evgeniya/Lesson 6.Task2.html" />
+        <option value="$PROJECT_DIR$/code review/lesson6_task2_Evgeniya/stylesheet.css" />
+        <option value="$PROJECT_DIR$/lesson7/task2/task2.html" />
+        <option value="$PROJECT_DIR$/lesson7/task2/style_task2.css" />
       </list>
     </option>
   </component>
@@ -122,7 +128,7 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="937" />
+    <option name="width" value="1168" />
     <option name="height" value="1034" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -198,7 +204,43 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="search" />
+              <option name="myItemId" value="lesson7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="goit3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="goit3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="goit3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="goit3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code review" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson6_task2_Evgeniya" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -430,14 +472,20 @@
       <option name="project" value="LOCAL" />
       <updated>1435658785505</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="@search">
+      <created>1435659546194</created>
+      <option name="number" value="00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1435659546194</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="937" height="1034" extended-state="0" />
+    <frame x="0" y="0" width="1168" height="1034" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21389794" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17100695" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.5038002" order="7" side_tool="true" content_ui="tabs" />
@@ -477,34 +525,14 @@
     <MESSAGE value="lesson8_task2" />
     <MESSAGE value="lesson7_task2" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="@search" />
+    <option name="LAST_COMMIT_MESSAGE" value="@search" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lesson4/task2/style_task2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/task4/task4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/task4/style_task4.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson3/task6/task6.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -732,20 +760,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson6/task2/task2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.038462">
-          <caret line="23" column="23" selection-start-line="8" selection-start-column="0" selection-end-line="32" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson6/task2/task6_style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="40" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson5/task2/task2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33142203">
@@ -764,24 +778,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.64365256">
           <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson7/task2/task2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54587156">
-          <caret line="28" column="59" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
-          <folding>
-            <element signature="n#span#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson7/task2/style_task2.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17037863">
-          <caret line="162" column="0" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -845,6 +841,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33142203">
           <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code review/lesson6_task2_Evgeniya/images/he.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code review/lesson6_task2_Evgeniya/Lesson 6.Task2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.153846">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code review/lesson6_task2_Evgeniya/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.54565704">
+          <caret line="80" column="23" selection-start-line="80" selection-start-column="23" selection-end-line="80" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson6/task2/task2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33142203">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson6/task2/task6_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5300668">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson7/task2/task2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.153847">
+          <caret line="182" column="25" selection-start-line="182" selection-start-column="25" selection-end-line="182" selection-end-column="25" />
+          <folding>
+            <element signature="n#span#1;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson7/task2/style_task2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6781737">
+          <caret line="591" column="26" selection-start-line="591" selection-start-column="26" selection-end-line="591" selection-end-column="26" />
           <folding />
         </state>
       </provider>

@@ -5,6 +5,19 @@
     <title>Task2</title>
     <link rel="stylesheet" type="text/css" href="style_task2.css">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:600' rel='stylesheet' type='text/css'>
+    <script src="https://maps.googleapis.com/maps/api/js"></script>
+    <script>
+        function initialize() {
+            var mapCanvas = document.getElementById('map-canvas');
+            var mapOptions = {
+                center: new google.maps.LatLng(44.5403, -78.5463),
+                zoom: 8,
+                mapTypeId: google.maps.MapTypeId.ROADMAP
+            }
+            var map = new google.maps.Map(mapCanvas, mapOptions)
+        }
+        google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
 </head>
 <body>
 <header>
@@ -160,25 +173,26 @@
 </div>
 <div class="map">
     <div class="contacts">
-        <span>Iconic Graphics</span><br>
+        <span class="flag">Iconic Graphics</span><br>
         <span>123 Main Street</span><br>
         <span>EastWest</span><br>
         <span>LHR 54500</span><br>
         <br>
-        <span>012/345/6789</span><br>
+        <span class="phone">012/345/6789</span><br>
         <br>
-        <span>info@iconicgraphics.com</span><br>
+        <span class="mail">info@iconicgraphics.com</span><br>
 
         <div class="social_icons">
             <a href="https://www.facebook.com/"><img src="images/facebook.png"></a>
             <a href=https://twitter.com/"><img src="images/twitter.png"></a>
             <a href="https://www.linkedin.com/"><img src="images/linkedin.png"></a>
         </div>
-        <div class="map_image"><img src="images/map.png"></div>
     </div>
+    <div id="map-canvas"></div>
 </div>
 <footer>
-
+    <p>Copyright &copy; 2014 <span class="footer_bold">Company Name. </span>All rights reserved.<br>
+        Designed by <span class="footer_bold_grey">IconicGraphics.com</span></p>
 </footer>
 <div class="empty2"></div>
 </body>

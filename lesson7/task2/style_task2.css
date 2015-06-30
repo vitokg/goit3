@@ -236,7 +236,6 @@ span.services {
     display: inline-block;
     position: absolute;
     left: 12.71%;
-
 }
 
 .line_italic_white {
@@ -268,21 +267,12 @@ span.services {
     left: 12.71%;
 }
 
-.line_small_grey1 {
-
-}
-
-.line_small_grey2 {
-
-}
-
 .line_small_blue {
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     line-height: 2.143;
     color: #2c5c86;
 }
-
 
 /*Middle section END*/
 
@@ -472,7 +462,6 @@ a {
     z-index: 10;
 }
 
-
 /*Pricing END*/
 
 /*Clients says*/
@@ -498,7 +487,7 @@ a {
     width: 100%;
     margin: auto;
 }
-p {
+.clients_says p {
     display: block;
     position: relative;
     text-align: center;
@@ -525,7 +514,8 @@ p {
 .foto2 {
     left: 51.17%;
 }
-.comment1, .comment2 {
+.comment1,
+.comment2 {
     background-color: aliceblue;
     margin: 0;
     font-size: 11px;
@@ -536,22 +526,23 @@ p {
     padding: 10px;
 }
 .comment1 {
-    left: 21.5%;
+    left: 21.75%;
 }
 .comment2 {
-    left: 59.1%;
+    left: 59.5%;
 }
-.comment1:before, .comment2:before {
-    content: ".";
+.foto1:after,
+.foto2:after {
+    content: "";
     color: white;
     width: 0;
     height: 0;
-    border-right: solid #ff2020 14px;
+    border-right: solid white 14px;
     border-top: solid transparent 10px;
     border-left: solid transparent 4px;
     border-bottom: solid transparent 10px;
     position: absolute;
-    margin: 29px 0 0 0;
+    margin: 36px 0 0 0;
 }
 .clients_says_name {
     font-family: 'Open Sans', sans-serif;
@@ -562,7 +553,7 @@ p {
 }
 .empty {
     color: aliceblue;
-    letter-spacing: 6px;
+    letter-spacing: 8px;
 }
 .report {
     font-family: 'Open Sans', sans-serif;
@@ -582,12 +573,43 @@ hr {
     left: 12.71%;
     top: 2870px;
     margin: 0;
-    position: relative;
-    float: left;
+    position: absolute;
     background-color: white;
 }
-.map_image {
+.contacts {
+    width: 50%;
+    height: 335px;
+    left: 12.71%;
+    position: relative;
+    float: left;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #666666;
+    padding: 50px 0 0 0;
+    line-height: 22px;
+}
+.flag {
+    display: inline-block;
+    left: 62px;
+}
+.flag:before {
+    content: url("images/flag.png");
+    position: absolute;
 
+}
+.phone:before {
+    content: url("images/phone.png");
+}
+.mail:before {
+    content: url("images/mail.png");
+}
+#map-canvas {
+    width: 50%;
+    height: 335px;
+    background-color: #CCC;
+    position: relative;
+    float: left;
+    -left: 100%;
 }
 /*Map END*/
 
@@ -598,7 +620,21 @@ footer {
     left: 12.71%;
     top: 3205px;
     position: absolute;
-    background-color: turquoise;
+    background-color: #3070a8;
+    text-align: center;
+}
+footer p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    color: white;
+    font-weight: normal;
+}
+.footer_bold {
+    font-weight: bold;
+}
+.footer_bold_grey {
+    font-weight: bold;
+    color: #26435d;
 }
 /*Footer END*/
 
