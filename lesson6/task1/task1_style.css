@@ -1,4 +1,6 @@
-.poster_container1, .poster_container2, .poster_container3 {
+.poster_container_first,
+.poster_container_second,
+.poster_container_third {
     width: 200px;
     height: 320px;
     font-family: "Trebuchet MS", sans-serif;
@@ -13,19 +15,21 @@
     transition: width 0.3s;
 }
 
-.poster_header1 {
+.poster_header_first {
     background-color: #63d0e7;
 }
 
-.poster_header2 {
+.poster_header_second {
     background-color: #e06b1a;
 }
 
-.poster_header3 {
+.poster_header_third {
     background-color: #4ad496;
 }
 
-.poster_header1, .poster_header2, .poster_header3 {
+.poster_header_first,
+.poster_header_second,
+.poster_header_third {
     height: 23px;
     border-radius: 6px 6px 0 0;
     color: white;
@@ -101,17 +105,20 @@ ul li a {
     color: #999999;
 }
 
-.poster_button1, .poster_button3 {
+.poster_button_first,
+.poster_button_third {
     background-color: #407cb3;
     border-bottom: solid #294164 2px;
 }
 
-.poster_button2 {
+.poster_button_second {
     background-color: #ee6d1a;
     border-bottom: solid #a54e28 2px;
 }
 
-.poster_button1, .poster_button2, .poster_button3 {
+.poster_button_first,
+.poster_button_second,
+.poster_button_third {
     margin: auto;
     width: 180px;
     height: 24px;
@@ -122,7 +129,9 @@ ul li a {
     font-weight: bold;
 }
 
-.poster_button1 a, .poster_button2 a, .poster_button3 a {
+.poster_button_first a,
+.poster_button_second a,
+.poster_button_third a {
     color: white;
     width: 170px;
     height: 17px;
@@ -130,21 +139,22 @@ ul li a {
     padding: 2px 0 5px 0;
 }
 
-.poster_container1:hover {
+.poster_container_first:hover {
     border: solid #63d0e7 3px;
 }
 
-.poster_container2:hover {
+.poster_container_second:hover {
     border: solid #e06b1a 3px;
 
 }
 
-.poster_container3:hover {
+.poster_container_third:hover {
     border: solid #4ad496 3px;
-
 }
 
-.poster_container1:hover, .poster_container2:hover, .poster_container3:hover {
+.poster_container_first:hover,
+.poster_container_second:hover,
+.poster_container_third:hover {
     border-radius: 10px;
     margin: 0;
     width: 210px;
