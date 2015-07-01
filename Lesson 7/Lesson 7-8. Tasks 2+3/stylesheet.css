@@ -34,14 +34,31 @@
     src: url("fonts/trebuchet_regular.ttf");
 }
 
+@font-face {
+    font-family: 'Futura-Book-Regular';
+    src: url('fonts/futuraBookBT/Futura-Book-Regular.eot');
+    src: url('fonts/futuraBookBT/Futura-Book-Regular.eot?#iefix') format('embedded-opentype'),
+         url('fonts/futuraBookBT/Futura-Book-Regular.woff') format('woff'),
+         url('fonts/futuraBookBT/Futura-Book-Regular.ttf') format('truetype'),
+         url('fonts/futuraBookBT/Futura-Book-Regular.svg#Futura-Book-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body{	
-	margin: -4px;
+	margin: 0;
 }
 header{
 	width: 100%;
 	height: 103px;
 	position: absolute;
 	margin-top: 0;
+}
+
+.header_group{
+	width: 1068px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 span{
@@ -55,7 +72,8 @@ span{
 	 color:#3B6FA5;
 	 font-size: 36px;
 	 position: relative;
-	 margin-left: 189px;
+	 margin-left: auto;
+	 margin-right: auto;
 	 margin-top:30px;
 }
 
@@ -70,7 +88,7 @@ nav{
 	width: 760px;
 	height: 65px;
 	position: relative;
-	left: 550px;
+	left: 435px;
 	top:-70px;
 	line-height: 70px;
 	font-size: 14px;
@@ -101,7 +119,7 @@ nav li:hover{
 	margin-right: auto;
 	margin-left: auto;
 	text-align: justify;
-	padding-top: 140px;
+	padding-top: 150px;
 	text-align: center;
 }
 
@@ -128,27 +146,28 @@ nav li:hover{
 	background-color: transparent;
 	border:1px solid #ffffff;
 	text-align: center;
-	margin-top: 47px;
+	margin-top: 45px;
 	font-size: 16px;
 	font-family: "OpenSansRegular";
 	color: #ffffff;
 	text-transform: uppercase;
 	line-height: 1.2;
 	text-align: center;
+	cursor: pointer;
 }
 
 .services{
 	width: 100%;
-	height: 565px;
+	height: 567px;
 	color:#ffffff;
 	position: relative;
-	top:54px;
+	top:40px;
 
 }
 
 .services p{
 	text-align: center;
-	padding-top: 90px;
+	padding-top: 77px;
 	font-size: 30px;
 	font-family: trebuchet_regular;
 	font-weight: bold;
@@ -157,7 +176,7 @@ nav li:hover{
 }
 
 .icons{
-	width:1300px;
+	width:1200px;
 	margin-left:auto;
 	margin-right:auto;
 }
@@ -192,10 +211,10 @@ nav li:hover{
 }
 
 .icons p{
-	margin-top: -70px;
+	margin-top: -60px;
 	color:#3070A8;
 	font-size: 30px;
-	font-family: "OpenSansRegular";
+	font-family: 'Futura-Book-Regular';
 	font-weight: normal;
 }
 
@@ -214,9 +233,11 @@ nav li:hover{
 }
 
 .middleinfo{
+	width: 1200px;
 	width:889px;
 	height: 481px;
-	margin-left: 289px;
+	margin-left: auto;
+	margin-right: auto;
 	padding-top: 90px;
 }
 
@@ -244,15 +265,15 @@ nav li:hover{
 	line-height: 2.143;
 }
 
-.midul li:nth-child(2){
+.midul li:hover{
 	color:#3070A8;
 }
 
 .offers{
 	width: 100%;
-	height: 707px;
-	border:1px solid green;
+	height: 700px;
 	position: relative;
+	margin-top: 0;
 }
 
 .colors{
@@ -267,9 +288,9 @@ nav li:hover{
 }
 
 .form{
-	width: 324px;
-	height: 495px;
-	border-radius: 5px;margin-left: auto;
+	width: 291px;
+	height: 444px;
+	border-radius: 5px;
 	border: 1px solid #EAECED;
 }
 
@@ -281,8 +302,8 @@ nav li:hover{
 }
 
 .best{
-	width: 329px;
-	height: 500px;
+	width: 280px;
+	height: 452px;
 	z-index: 10;
 	position: absolute;
 	border:5px solid #EE8129;
@@ -297,12 +318,12 @@ nav li:hover{
 
 .green{
 	position: relative;
-	right:-324px;
+	right:-290px;
 }
 
 .offerheader{
 	width: 100%;
-	height:70px;
+	height:77px;
 	background-color: yellow;
 }
 
@@ -311,7 +332,7 @@ h2{
 	text-transform: uppercase;
 	font-family: "FuturaBold";
 	font-size: 24px;
-	line-height: 1.2;
+	line-height: 47px;
 	text-align: center;
 }
 
@@ -328,7 +349,7 @@ h2{
 
 .general{
 	width: 100%;
-	height:410px;
+	height:350px;
 	background-color: #ffffff;
 }
 
@@ -368,7 +389,7 @@ h2{
 }
 
 table{
-	width: 283px;
+	width: 259px;
 	height:152px;
 	margin-right: auto;
 	margin-left: auto;
@@ -402,20 +423,21 @@ td{
 }
 
 .enroll{
-	width: 283px;
-	height:48px;
+	width: 253px;
+	height:38px;
 	color:#2F70A8;
 	background-color: #2F70A8;
 	border-radius: 5px;
 	border-bottom: 3px solid #00335F;
 	color:#ffffff;
-	font-family: trebuchet_bold;
+	font-family: "OpenSansRegular";
 	vertical-align: middle;
-	margin-top: 30px;
 	text-align: center;
 	position: relative;
 	margin-right: 7%;
 	margin-left:7%;
+	margin-top: 10px;
+	line-height: 10px;
 }
 
 .blue .offerheader{
@@ -428,24 +450,25 @@ td{
 
 .best .offerheader{
 	background-color: #EE8129;
-	height: 75px;
+	height: 88px;
 }
 
 .orangeClick{
 	background-color: #EE8129;
 	border-bottom:4px solid #AC4700;
-	width: 283px;
-	height:48px;
-	color:#2F70A8;
+	width: 253px;
+	height:38px;
 	border-radius: 5px;
 	color:#ffffff;
-	font-family: trebuchet_bold;
+	font-family: "OpenSansRegular";
 	vertical-align: middle;
-	margin-top: 30px;
+	margin-top: 10px;
 	text-align: center;
 	position: relative;
 	margin-right: 7%;
 	margin-left:7%;
+	cursor: pointer;
+	line-height: 10px;
 }
 
 .orangeClick:active{
@@ -513,7 +536,6 @@ h3{
 .photo{
 	width: 103px;
 	height: 103px;
-	background-color: green;
 }
 
 .she{
@@ -547,13 +569,6 @@ h3{
     border-right: 20px solid #F7F7F7; 
 }
 
-.text::after{
-	content: ''; 
-    position: absolute; 
-    left: 1290px; bottom: 120px; 
-    border: 20px solid transparent; 
-    border-right: 20px solid #F7F7F7; 
-}
 
 .alleft, .alright{
 	font-size: 13px;

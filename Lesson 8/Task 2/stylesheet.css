@@ -38,9 +38,6 @@ textarea{
 #search{
 	width: 70px;
 	height: 27px;
-	position: absolute;
-	right:-550px;
-	top:-24px;
 	border-radius: 10%;
 	background: linear-gradient(to top, #D8DADE, #FCFCFC);
 	font-weight: bold;
