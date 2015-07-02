@@ -633,7 +633,7 @@ hr{
 }
 
 .prefooter_contacts{
-	width: 500%;
+	width: 50%;
 	height: 345px;
 	line-height: 30px;
 	font-family: 'OpenSansRegular';
@@ -652,15 +652,15 @@ hr{
 	right: -180px;
 }
 
- .position{
+.position{
  list-style-image:url(images/position.png);
 }
 
- .phone{
+.phone{
  list-style-image:url(images/phone_f.png);
 }
 
- .letter{
+.letter{
  list-style-image:url(images/letter.png);
 }
 
