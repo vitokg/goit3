@@ -82,6 +82,7 @@ span{
 	display: inline-block;
 	position: relative;
 	margin-right: 40px;
+	cursor: pointer;
 }
 
 nav{
@@ -154,6 +155,10 @@ nav li:hover{
 	line-height: 1.2;
 	text-align: center;
 	cursor: pointer;
+}
+
+.top:hover{
+	background-color: rgba(45,106,159, .5);
 }
 
 .services{
@@ -476,6 +481,10 @@ td{
 	border-bottom: 2px solid #EE8129;
 }
 
+.orangeClick:hover{
+	background-color: rgba(238,129,41, .7);
+}
+
 .enroll:hover{
 	cursor: pointer;
 	background-color: #FFA500;
@@ -566,7 +575,7 @@ h3{
     left: -40px; 
     bottom: 30px; 
     border: 20px solid transparent; 
-    border-right: 20px solid #F7F7F7; 
+    border-right: 20px solid #fff; 
 }
 
 
