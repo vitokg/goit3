@@ -1469,7 +1469,7 @@ span.footer_bold {
         left: 0;
         margin: 0;
         position: absolute;
-        background-size: cover;
+        background-color: #d0d0d0;
         background: none;
     }
     .line_big_orange {
