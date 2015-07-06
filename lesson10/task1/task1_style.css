@@ -15,11 +15,49 @@
     h1, h4 {
         text-align: center;
     }
+    .container {
+        position: relative;
+        float: left;
+    }
     .card {
         position: relative;
         float: left;
         width: 358px;
         height: 258px;
+        margin: 15px;
+    }
+    .second_background {
+        width: 358px;
+        height: 258px;
+        margin: 15px;
+        float: left;
+        position: absolute;
+        z-index: 10;
+        background: none;
+    }
+    .second_background:hover {
+        visibility: visible;
+        background-color: rgba(45, 163, 255, 0.75);
+    }
+    .img_zoom, .img_link {
+        position: absolute;
+        border: solid white 1px;
+        border-radius: 3px;
+        visibility: hidden;
+    }
+    .img_zoom {
+        top: 41.27%;
+        left: 43.7%;
+    }
+    .img_link {
+        top: 41.27%;
+        left: 50%;
+    }
+    .second_background:hover .img_zoom {
+        visibility: visible;
+    }
+    .second_background:hover .img_link {
+        visibility: visible;
     }
 }
 @media only screen and (max-width: 1800px) {
@@ -39,11 +77,49 @@
     h1, h4 {
         text-align: center;
     }
+    .container {
+        position: relative;
+        float: left;
+    }
     .card {
         position: relative;
         float: left;
         width: 358px;
         height: 258px;
+        margin: 15px;
+    }
+    .second_background {
+        width: 358px;
+        height: 258px;
+        margin: 15px;
+        float: left;
+        position: absolute;
+        z-index: 10;
+        background: none;
+    }
+    .second_background:hover {
+        visibility: visible;
+        background-color: rgba(45, 163, 255, 0.75);
+    }
+    .img_zoom, .img_link {
+        position: absolute;
+        border: solid white 1px;
+        border-radius: 3px;
+        visibility: hidden;
+    }
+    .img_zoom {
+        top: 41.27%;
+        left: 43.7%;
+    }
+    .img_link {
+        top: 41.27%;
+        left: 50%;
+    }
+    .second_background:hover .img_zoom {
+        visibility: visible;
+    }
+    .second_background:hover .img_link {
+        visibility: visible;
     }
 }
 @media only screen and (max-width: 700px) {
@@ -63,22 +139,48 @@
     h1, h4 {
         text-align: center;
     }
+    .container {
+        position: relative;
+        float: left;
+    }
     .card {
         position: relative;
+        float: left;
         width: 358px;
         height: 258px;
+        margin: 15px;
+    }
+    .second_background {
+        width: 358px;
+        height: 258px;
+        margin: 15px;
+        float: left;
+        position: absolute;
+        z-index: 10;
+        background: none;
+    }
+    .second_background:hover {
+        visibility: visible;
+        background-color: rgba(45, 163, 255, 0.75);
+    }
+    .img_zoom, .img_link {
+        position: absolute;
+        border: solid white 1px;
+        border-radius: 3px;
+        visibility: hidden;
+    }
+    .img_zoom {
+        top: 41.27%;
+        left: 43.7%;
+    }
+    .img_link {
+        top: 41.27%;
+        left: 50%;
+    }
+    .second_background:hover .img_zoom {
+        visibility: visible;
+    }
+    .second_background:hover .img_link {
+        visibility: visible;
     }
 }
-.second_background {
-    width: 358px;
-    height: 258px;
-    margin: 15px;
-    float: left;
-    z-index: 10;
-}
-.second_background:hover {
-    background: rgba(76, 171, 255, 0.51);
-    z-index: 10;
-    position: relative;
-}
-

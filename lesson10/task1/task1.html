@@ -7,6 +7,12 @@
 шрифт для заголовка можно подобрать похожий (на ваше усмотрение)
 слой в котором увеличенная фотография пока не верстаем
 
+продолжаем доделывать макет из 10го урока
+верстаем слой в котором увеличенная фотография
+показывается на доступную ширину родительского блока
+если знания JS хватает можно сделать открытие увеличенной фото по клику на кнопку лупы
+если знаний JS не хватает - просто делаем блок и отдельный класс для него который будет показывать блок, а при удалении этого класса - блок скрывается.
+
 -->
 
 <!DOCTYPE html>
@@ -20,12 +26,12 @@
 <div class="portfolio">
     <h1>Showcase your work like a pro.</h1>
     <h4>Contact me if you like my work</h4>
-        <div class="second_background"><div class="card"><img src="images/card1.png"></div></div>
-        <div class="second_background"><div class="card"><img src="images/card2.png"></div></div>
-        <div class="second_background"><div class="card"><img src="images/card3.png"></div></div>
-        <div class="second_background"><div class="card"><img src="images/card4.png"></div></div>
-        <div class="second_background"><div class="card"><img src="images/card5.png"></div></div>
-        <div class="second_background"><div class="card"><img src="images/card6.png"></div></div>
+        <div class="container"><div class="card"><img src="images/card1.png"></div><div class="second_background"><a href="#"><img class="img_zoom" src="images/zoom.png"></a><a href="#"><img class="img_link" src="images/link.png"></a></div></div>
+        <div class="container"><div class="card"><img src="images/card2.png"></div><div class="second_background"><a href="#"><img class="img_zoom" src="images/zoom.png"></a><a href="#"><img class="img_link" src="images/link.png"></a></div></div>
+        <div class="container"><div class="card"><img src="images/card3.png"></div><div class="second_background"><a href="#"><img class="img_zoom" src="images/zoom.png"></a><a href="#"><img class="img_link" src="images/link.png"></a></div></div>
+        <div class="container"><div class="card"><img src="images/card4.png"></div><div class="second_background"><a href="#"><img class="img_zoom" src="images/zoom.png"></a><a href="#"><img class="img_link" src="images/link.png"></a></div></div>
+        <div class="container"><div class="card"><img src="images/card5.png"></div><div class="second_background"><a href="#"><img class="img_zoom" src="images/zoom.png"></a><a href="#"><img class="img_link" src="images/link.png"></a></div></div>
+        <div class="container"><div class="card"><img src="images/card6.png"></div><div class="second_background"><a href="#"><img class="img_zoom" src="images/zoom.png"></a><a href="#"><img class="img_link" src="images/link.png"></a></div></div>
 </div>
 </body>
 </html>
