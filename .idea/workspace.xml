@@ -6,23 +6,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="770ce27a-80c6-4957-be22-8515c2b51fc2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_exam/fonts/948646.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_exam/images/ABC 副本.psb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_exam/fonts/Arial Regular.Ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_exam/images/bg_banner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_exam/images/boy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_exam/images/boy.psb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_exam/images/card1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_exam/images/card2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_exam/images/card3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_exam/images/facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_exam/images/google-plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_exam/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_exam/images/logo.psd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_exam/images/social_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_exam/images/twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_exam/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_exam/style.css" />
+      <change type="DELETED" beforePath="D:\Homework\goit3\project_exam\images\ABC 副本.psb" afterPath="" />
+      <change type="DELETED" beforePath="D:\Homework\goit3\project_exam\images\boy.psb" afterPath="" />
+      <change type="DELETED" beforePath="D:\Homework\goit3\project_exam\images\facebook.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Homework\goit3\project_exam\images\google-plus.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Homework\goit3\project_exam\images\logo.psd" afterPath="" />
+      <change type="DELETED" beforePath="D:\Homework\goit3\project_exam\images\twitter.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="goit3.iws" />
@@ -57,8 +46,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/project_exam/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4304348">
-              <caret line="408" column="34" selection-start-line="408" selection-start-column="34" selection-end-line="408" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.87391305">
+              <caret line="432" column="0" selection-start-line="432" selection-start-column="0" selection-end-line="432" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -635,7 +624,13 @@
       <option name="project" value="LOCAL" />
       <updated>1436167930793</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="project_exam">
+      <created>1436355081767</created>
+      <option name="number" value="00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1436355081767</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -644,6 +639,7 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21980414" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.083153345" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.5038002" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -654,7 +650,6 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.083153345" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.4961998" order="5" side_tool="false" content_ui="tabs" />
@@ -684,7 +679,8 @@
     <MESSAGE value="@search" />
     <MESSAGE value="lesson10_task1" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="project_exam" />
+    <option name="LAST_COMMIT_MESSAGE" value="project_exam" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1041,8 +1037,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/project_exam/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4304348">
-          <caret line="408" column="34" selection-start-line="408" selection-start-column="34" selection-end-line="408" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.87391305">
+          <caret line="432" column="0" selection-start-line="432" selection-start-column="0" selection-end-line="432" selection-end-column="0" />
           <folding />
         </state>
       </provider>
