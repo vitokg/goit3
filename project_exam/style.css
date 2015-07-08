@@ -1,0 +1,777 @@
+@font-face {
+    font-family: Helvetica;
+    src: url('fonts/948646.ttf')
+}
+
+@font-face {
+    font-family: Arial;
+    src: url('fonts/Arial%20Regular.Ttf')
+}
+
+.wrapper {
+    width: 100%;
+    font-family: Helvetica, "Arial R";
+    padding: 0;
+    margin: 50px 0 0 0;
+}
+
+
+@media screen and (max-width: 1980px) and (min-width: 1000px) {
+
+    .header_inside,
+    .banner_inside,
+    .university_description_inside,
+    .benefits_inside,
+    .comments_inside,
+    .start_inside,
+    .footer_inside {
+        width: 990px;
+        margin: 0 auto;
+        padding: 0;
+        position: relative;
+    }
+    header {
+        height: 76px;
+        background-color: #3498db;
+    }
+
+    .logo img {
+        width: 49px;
+        height: 49px;
+        border: solid white 1px;
+        border-radius: 50%;
+        float: left;
+        margin: 12px 12px 0 0;
+    }
+
+    .logo img a {
+        width: 49px;
+        height: 49px;
+
+    }
+
+    .logo p {
+        font-size: 26px;
+        color: white;
+        display: inline-block;
+        margin: 23px 0 23px 0;
+        float: left;
+    }
+
+    .connect {
+        position: absolute;
+        margin: 22px 0 0 845px;
+    }
+
+    .connect p {
+        font-size: 13px;
+        color: white;
+        width: 50px;
+        float: left;
+        margin: 7px 5px 0 0;
+    }
+
+    .connect p a {
+        color: white;
+    }
+
+    .facebook {
+        display: inline-block;
+        width: 27px;
+        height: 27px;
+        background: url("images/social_icons.png") 0 0;
+    }
+
+    .google {
+        display: inline-block;
+        width: 27px;
+        height: 27px;
+        background: url("images/social_icons.png") 30px 0;
+    }
+
+    .twitter {
+        display: inline-block;
+        width: 27px;
+        height: 27px;
+        background: url("images/social_icons.png") 60px 0;
+    }
+
+    .banner {
+        height: 350px;
+        background-image: url("images/bg_banner.png");
+    }
+
+    .banner_text {
+        width: 600px;
+    }
+
+    h1 {
+        font-size: 50px;
+        color: white;
+        font-weight: bold;
+        margin: 0;
+        padding: 75px 0 0 0;
+    }
+
+    .banner p {
+        font-size: 30px;
+        color: white;
+    }
+
+    form {
+        width: 360px;
+        height: 505px;
+        background-color: white;
+        border-bottom: solid #3498db 4px;
+        border-left: solid #9c9c9c 1px;
+        border-right: solid #9c9c9c 1px;
+        border-top: solid #9c9c9c 1px;
+        clear: both;
+        position: absolute;
+        left: 628px;
+        top: 77px;
+    }
+
+    form h2 {
+        font-size: 25px;
+        color: #333333;
+        text-align: center;
+        margin: 15px 0 15px 0;
+    }
+
+    select {
+        background-color: #f2f2f2;
+        border: solid #e6e6e6 1px;
+        width: 323px;
+        height: 37px;
+        margin: 0 0 10px 20px;
+        font-size: 15px;
+        color: #333333;
+    }
+
+    input {
+        background-color: #f2f2f2;
+        border: solid #e6e6e6 1px;
+        border-shadow: none;
+        width: 316px;
+        height: 35px;
+        margin: 0 0 10px 20px;
+        padding: 0 0 0 4px;
+        font-size: 15px;
+        color: #333333;
+    }
+
+    textarea {
+        background-color: #f2f2f2;
+        border: solid #e6e6e6 1px;
+        width: 316px;
+        height: 75px;
+        margin: 0 0 10px 20px;
+        padding: 0 0 0 4px;
+        font-size: 15px;
+        color: #333333;
+        font-family: Helvetica, sans-serif;
+    }
+
+    input[type=submit] {
+        font-size: 25px;
+        color: white;
+        background-color: #e74c3c;
+        width: 220px;
+        height: 50px;
+        margin-left: 75px;
+    }
+
+    .university_description {
+        height: 250px;
+        background-color: #f2f2f2;
+    }
+
+    .university_description_inside h2 {
+        font-size: 15px;
+        font-weight: bold;
+        color: #333333;
+        padding-top: 35px;
+        margin-top: 0;
+    }
+
+    .university_description_inside p {
+        font-size: 13px;
+        color: #333333;
+        margin: 15px 0 15px 0;
+        line-height: 20px;
+        width: 600px;
+    }
+
+    .benefits {
+        height: 530px;
+        background-color: #ffffff;
+    }
+
+    .benefits_inside h2 {
+        font-size: 25px;
+        color: #3498db;
+    }
+
+    .description {
+        width: 290px;
+        float: left;
+        margin-right: 60px;
+    }
+
+    .description:last-child {
+        margin-right: 0;
+    }
+
+    .description h3 {
+        font-size: 15px;
+        font-weight: bold;
+        color: #333333;
+        text-align: center;
+    }
+
+    .description p {
+        font-size: 13px;
+        color: #4d4d4d;
+        text-align: center;
+        line-height: 20px;
+    }
+
+    .description a {
+        text-decoration: none;
+        font-size: 13px;
+        color: #333333;
+        display: block;
+        border: solid #ebebeb 1px;
+        border-radius: 50%;
+        margin: auto;
+        padding-top: 18px;
+        text-align: center;
+        width: 50px;
+        height: 32px;
+    }
+
+    .benefits_inside {
+        height: 530px;
+        border-bottom: solid #f2f2f2 1px;
+    }
+
+    .comments {
+        height: 255px;
+        background-color: #ffffff;
+    }
+
+    .comments_inside h2 {
+        font-size: 25px;
+        color: #3498db;
+        width: 900px;
+        float: left;
+    }
+
+    .comments_inside a {
+        text-decoration: none;
+        display: inline-block;
+        width: 37px;
+        height: 35px;
+        font-size: 25px;
+        text-align: center;
+        font-weight: bold;
+        margin-top: 15px;
+        padding-top: 2px;
+    }
+
+    .first_button {
+        border: solid #e7e7e7 1px;
+        border-radius: 50%;
+        background-color: #f2f2f2;
+        color: #333333;
+    }
+
+    .second_button {
+        border: solid #e7e7e7 1px;
+        border-radius: 50%;
+        color: #8b8b8b;
+    }
+
+    .comments_inside p {
+        font-size: 13px;
+        color: #333333;
+        width: 740px;
+        line-height: 20px;
+        margin: 0;
+    }
+
+    .comments_inside span.signature {
+        font-size: 13px;
+        color: #333333;
+        margin-top: 15px;
+        display: inline-block;
+        width: 740px;
+        font-weight: bold;
+        text-align: right;
+    }
+
+    .comments_inside span.quotes {
+        font-size: 50px;
+        font-weight: bold;
+        color: #f2f2f2;
+        display: block;
+        width: 740px;
+        height: 60px;
+    }
+
+    .comments_inside span.quotes:last-child {
+        text-align: right;
+    }
+
+    .start {
+        height: 190px;
+        background-color: #f2f2f2;
+    }
+
+    .start_inside a {
+        width: 539px;
+        height: 60px;
+        text-decoration: none;
+        display: inline-block;
+        background-color: #e74c3c;
+        color: white;
+        font-size: 25px;
+        padding: 0;
+        margin-top: 65px;
+    }
+
+    .start_inside p {
+        margin-top: 14px;
+        text-align: center;
+    }
+
+    .start_inside span {
+        display: inline-block;
+        width: 30px;
+        height: 30px;
+        border: solid #ffffff 2px;
+        border-radius: 50%;
+        text-align: center;
+        font-size: 25px;
+        padding: 0 0 1px 1px;
+    }
+
+    .start_inside img {
+        position: absolute;
+        top: -174px;
+        left: 764px;
+    }
+
+    footer {
+        height: 193px;
+        background-color: #3498db;
+    }
+
+    .footer_inside .logo {
+        padding-top: 50px;
+    }
+
+    .footer_inside .logo p {
+        width: 180px;
+        margin: 7px 0 23px 0;
+        border-right: solid #2980b9 2px;
+    }
+
+    .footer_inside .connect {
+        margin: 10px 0 0 270px;
+    }
+
+    .copyright {
+        font-size: 13px;
+        color: white;
+        margin: 45px 0 0 270px;
+    }
+}
+
+/* ----------------------------------------------------------------------------------------- */
+
+@media screen and (max-width: 999px) and (min-width: 800px) {
+    .header_inside,
+    .banner_inside,
+    .university_description_inside,
+    .benefits_inside,
+    .comments_inside,
+    .start_inside,
+    .footer_inside {
+        width: 758px;
+        margin: 0 auto;
+        padding: 0;
+        position: relative;
+    }
+    header {
+        height: 76px;
+        background-color: #3498db;
+    }
+
+    .logo img {
+        width: 49px;
+        height: 49px;
+        border: solid white 1px;
+        border-radius: 50%;
+        float: left;
+        margin: 12px 12px 0 0;
+    }
+
+    .logo img a {
+        width: 49px;
+        height: 49px;
+    }
+
+    .logo p {
+        font-size: 26px;
+        color: white;
+        display: inline-block;
+        margin: 23px 0 23px 0;
+        float: left;
+    }
+
+    .connect {
+        position: absolute;
+        margin: 22px 0 0 610px;
+    }
+
+    .connect p {
+        font-size: 13px;
+        color: white;
+        width: 50px;
+        float: left;
+        margin: 7px 5px 0 0;
+    }
+
+    .connect p a {
+        color: white;
+    }
+
+    .facebook {
+        display: inline-block;
+        width: 27px;
+        height: 27px;
+        background: url("images/social_icons.png") 0 0;
+    }
+
+    .google {
+        display: inline-block;
+        width: 27px;
+        height: 27px;
+        background: url("images/social_icons.png") 30px 0;
+    }
+
+    .twitter {
+        display: inline-block;
+        width: 27px;
+        height: 27px;
+        background: url("images/social_icons.png") 60px 0;
+    }
+
+    .banner {
+        height: 350px;
+        background-image: url("images/bg_banner.png");
+    }
+
+    .banner_text {
+        width: 416px;
+    }
+
+    h1 {
+        font-size: 45px;
+        color: white;
+        font-weight: bold;
+        margin: 0;
+        padding: 75px 0 0 0;
+    }
+
+    .banner p {
+        font-size: 25px;
+        color: white;
+    }
+
+    form {
+        width: 340px;
+        height: 505px;
+        background-color: white;
+        border-bottom: solid #3498db 4px;
+        border-left: solid #9c9c9c 1px;
+        border-right: solid #9c9c9c 1px;
+        border-top: solid #9c9c9c 1px;
+        clear: both;
+        position: absolute;
+        left: 417px;
+        top: 30px;
+    }
+
+    form h2 {
+        font-size: 20px;
+        color: #333333;
+        text-align: center;
+        margin: 15px 0 15px 0;
+    }
+
+    select {
+        background-color: #f2f2f2;
+        border: solid #e6e6e6 1px;
+        width: 300px;
+        height: 37px;
+        margin: 0 0 10px 20px;
+        font-size: 15px;
+        color: #333333;
+    }
+
+    input {
+        background-color: #f2f2f2;
+        border: solid #e6e6e6 1px;
+        border-shadow: none;
+        width: 294px;
+        height: 35px;
+        margin: 0 0 10px 20px;
+        padding: 0 0 0 4px;
+        font-size: 15px;
+        color: #333333;
+    }
+
+    textarea {
+        background-color: #f2f2f2;
+        border: solid #e6e6e6 1px;
+        width: 294px;
+        height: 75px;
+        margin: 0 0 10px 20px;
+        padding: 0 0 0 4px;
+        font-size: 15px;
+        color: #333333;
+        font-family: Helvetica, sans-serif;
+    }
+
+    input[type=submit] {
+        font-size: 20px;
+        color: white;
+        background-color: #e74c3c;
+        width: 220px;
+        height: 50px;
+        margin-left: 60px;
+    }
+
+    .university_description {
+        height: 250px;
+        background-color: #f2f2f2;
+    }
+
+    .university_description_inside h2 {
+        font-size: 15px;
+        font-weight: bold;
+        color: #333333;
+        padding-top: 28px;
+        margin-top: 0;
+        width: 416px;
+    }
+
+    .university_description_inside p {
+        font-size: 13px;
+        color: #333333;
+        margin: 15px 0 15px 0;
+        line-height: 20px;
+        width: 410px;
+    }
+
+    .benefits {
+        height: 715px;
+        background-color: #ffffff;
+    }
+
+    .benefits_inside h2 {
+        font-size: 20px;
+        color: #3498db;
+        margin: 40px 0 32px 0;
+    }
+
+    .benefits_inside img {
+        width: 289px;
+        height: 158px;
+        float: left;
+        margin: 0 20px 20px 0;
+    }
+    .description {
+        width: 758px;
+    }
+
+    .description:last-child {
+        margin-right: 0;
+    }
+
+    .description h3 {
+        font-size: 15px;
+        font-weight: bold;
+        color: #333333;
+        text-align: left;
+        width: 758px;
+    }
+
+    .description p {
+        font-size: 13px;
+        color: #4d4d4d;
+        text-align: left;
+        line-height: 20px;
+    }
+
+    .description a {
+        text-decoration: none;
+        font-size: 13px;
+        color: #333333;
+        display: block;
+        border: solid #ebebeb 1px;
+        border-radius: 50%;
+        margin-left: 313px;
+        margin-bottom: 37px;
+        padding-top: 15px;
+        text-align: center;
+        width: 50px;
+        height: 32px;
+    }
+
+    .benefits_inside {
+        height: 678px;
+        border-bottom: solid #f2f2f2 1px;
+    }
+
+    .comments {
+        height: 255px;
+        background-color: #ffffff;
+    }
+
+    .comments_inside h2 {
+        font-size: 20px;
+        color: #3498db;
+        width: 670px;
+        float: left;
+        margin: 0;
+    }
+
+    .comments_inside a {
+        text-decoration: none;
+        display: inline-block;
+        width: 37px;
+        height: 35px;
+        font-size: 25px;
+        text-align: center;
+        font-weight: bold;
+        padding-top: 2px;
+    }
+
+    .first_button {
+        border: solid #e7e7e7 1px;
+        border-radius: 50%;
+        background-color: #f2f2f2;
+        color: #333333;
+    }
+
+    .second_button {
+        border: solid #e7e7e7 1px;
+        border-radius: 50%;
+        color: #8b8b8b;
+    }
+
+    .comments_inside p {
+        font-size: 13px;
+        color: #333333;
+        line-height: 20px;
+        margin: 0;
+        width: 536px;
+    }
+
+    .comments_inside span.signature {
+        font-size: 13px;
+        color: #333333;
+        margin-top: 15px;
+        display: inline-block;
+        width: 532px;
+        font-weight: bold;
+        text-align: right;
+    }
+
+    .comments_inside span.quotes {
+        font-size: 50px;
+        font-weight: bold;
+        color: #f2f2f2;
+        display: block;
+        width: 533px;
+        height: 40px;
+    }
+
+    .comments_inside span.quotes:last-child {
+        text-align: right;
+    }
+
+    .start {
+        height: 190px;
+        background-color: #f2f2f2;
+    }
+
+    .start_inside a {
+        width: 468px;
+        height: 60px;
+        text-decoration: none;
+        display: inline-block;
+        background-color: #e74c3c;
+        color: white;
+        font-size: 20px;
+        padding: 0;
+        margin-top: 65px;
+    }
+
+    .start_inside p {
+        margin-top: 12px;
+        text-align: center;
+    }
+
+    .start_inside span {
+        display: inline-block;
+        width: 30px;
+        height: 30px;
+        border: solid #ffffff 2px;
+        border-radius: 50%;
+        text-align: center;
+        font-size: 25px;
+        padding: 0 0 1px 1px;
+    }
+
+    .start_inside img {
+        position: absolute;
+        top: -174px;
+        left: 555px;
+    }
+
+    footer {
+        height: 193px;
+        background-color: #3498db;
+    }
+
+    .footer_inside .logo {
+        padding-top: 50px;
+    }
+
+    .footer_inside .logo p {
+        width: 180px;
+        margin: 7px 0 23px 0;
+        border-right: solid #2980b9 2px;
+    }
+
+    .footer_inside .connect {
+        margin: 0 0 0 270px;
+    }
+
+    .copyright {
+        font-size: 13px;
+        color: white;
+        margin: 35px 0 0 270px;
+    }
+}
+
+/* ----------------------------------------------------------------------------------------- */
+
+@media screen and (max-width: 799px) and (min-width: 320px) {
+
+}
