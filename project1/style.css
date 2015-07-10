@@ -221,6 +221,7 @@ nav ul li:hover {
     background-image: url(img/background.png);
     background-position: center;
     background-repeat: no-repeat;
+    position: relative;
 }
 
 .div_banner {
