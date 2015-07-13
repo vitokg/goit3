@@ -1,0 +1,138 @@
+.wrapper {
+    width: 1200px;
+    margin: 0 auto;
+    font-family: Calibry, sans-serif;
+    position: relative;
+}
+header {
+    background-image: url("images/bg_header_01.jpg");
+    height: 400px;
+}
+.first_item, .second_item, .third_item {
+    font-size: 60px;
+    font-weight: bolder;
+    position: absolute;
+    color: #e6e6e6;
+    text-shadow: 2px 2px 5px #1f1f1f;
+}
+.first_item {
+    left: 119px;
+    top: 51px;
+    z-index: 10;
+}
+.second_item {
+    left: 135px;
+    top: 56px;
+    z-index: 5;
+}
+.third_item {
+    left: 157px;
+    top: 51px;
+}
+h1 {
+    font-size: 25px;
+    color: #e6e6e6;
+    text-shadow: 2px 2px 3px #1f1f1f;
+    position: absolute;
+    left: 195px;
+    top: 65px;
+}
+.logo_text {
+    font-size: 15px;
+    color: #e6e6e6;
+    text-shadow: 1px 1px 2px #1f1f1f;
+    font-weight: bold;
+    position: absolute;
+    left: 119px;
+    top: 105px;
+}
+.nav_header {
+    position: relative;
+    top: 200px;
+    width: 860px;
+    list-style: none;
+    margin: 0 auto;
+    height: 40px;
+}
+.nav_header {
+    border-bottom: solid 5px #ffffff;
+}
+.nav_header li {
+    display: inline-block;
+    float: left;
+    padding: 0 13px 0 13px;
+    width: auto;
+    height: 40px;
+}
+.nav_header li a {
+    font-size: 20px;
+    text-decoration: none;
+    color: #e2e1e2;
+    text-shadow: 1px 1px 2px #767676;
+    display: inline-block;
+    width: auto;
+    height: 40px;
+}
+.nav_header li a:after {
+    content: '';
+    width: 0;
+    height: 0;
+    position: relative;
+    border-bottom: solid white 10px;
+    border-right: solid transparent 10px;
+    border-top: solid transparent 10px;
+    border-left: solid transparent 10px;
+    bottom: -8px;
+    right: 50%;
+}
+.nav_header li a:hover {
+    color: #ffffff;
+}
+.slider {
+    background: rosybrown;
+    height: 360px;
+}
+.search a {
+    text-decoration: none;
+    color: #373737;
+    display: inline-block;
+    width: 47px;
+    height: 44px;
+    background-color: #ececec;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 50%;
+    padding: 3px 0 0 0;
+    text-shadow: 1px 1px 2px #000000;
+    position: relative;
+    left: 815px;
+    top: 85px;
+    z-index: 10;
+}
+.search input {
+    width: 240px;
+    height: 30px;
+    color: #808080;
+    font-size: 14px;
+    border-radius: 10px;
+    padding: 0 0 0 25px;
+    position: relative;
+    left: 840px;
+    top: 44px;
+}
+.benefits {
+    background: blue;
+    height: 438px;
+}
+.comments {
+    background: red;
+    height: 200px;
+}
+.blog {
+    background: yellow;
+    height: 263px;
+}
+footer {
+    background: green;
+    height: 38px;
+}
