@@ -3,8 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <title>The Fortune Teller</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script>
+        var a1=new Array("Киев", "Париж", "Нью-Йорк", "Дели", "Пекин");
+        var a2=new Array("Андрей", "Франсуа", "Джордж", "Мидхун", "Джиан");
+        var a3=new Array("1", "2", "3", "4", "5");
+        var a4=new Array("Дизайнер", "Стилист", "Учительница", "Адвокат", "Программист");
+        function searchCity(city_result) {
+            for(i=0; i<5; i++) document.createTextNode(city_result).content = 'a1[1]';
+        }
+        function searchHusband() {
+
+        }
+        function searchChildren() {
+
+        }
+        function searchJob() {
+
+        }
+    </script>
 </head>
 <body>
-    <div
+    <div class="ball">
+        <input type="submit" id="city" value="Твой будущий город" onclick="searchCity('city_result')"><br>
+        <p id="city_result"></p>
+        <input type="submit" id="husband" value="Имя будущего мужа"><br>
+        <p id="husband_result"></p>
+        <input type="submit" id="children" value="Количество детей"><br>
+        <p id="children_result"></p>
+        <input type="submit" id="job" value="Твоя будущая работа"><br>
+        <p id="job_result"></p>
+    </div>
 </body>
 </html>

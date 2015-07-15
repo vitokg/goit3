@@ -1,0 +1,23 @@
+body {
+    background-color: #000026;
+}
+
+.ball {
+    width: 640px;
+    height: 502px;
+    background-image: url("images/bg.jpg");
+    margin: 50px auto;
+    border: solid #390039 5px;
+}
+input {
+    margin: 30px 10px 0 20px;
+    font-size: 18px;
+    background-color: #000026;
+    color: white;
+    font-weight: bold;
+}
+p {
+    font-size: 18px;
+    color: white;
+    font-weight: bold;
+}
