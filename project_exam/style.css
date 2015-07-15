@@ -25,53 +25,56 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 @font-face {
     font-family: "ArialRegular";
     src: url("fonts/ArialRegular/ArialRegular.eot");
-    src: url("fonts/ArialRegular/ArialRegular.eot?#iefix")format("embedded-opentype"),
+    src: url("fonts/ArialRegular/ArialRegular.eot?#iefix") format("embedded-opentype"),
     url("fonts/ArialRegular/ArialRegular.woff") format("woff"),
     url("fonts/ArialRegular/ArialRegular.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;
 }
+
 /* font-family: "ArialBold"; */
 @font-face {
     font-family: "ArialBold";
     src: url("fonts/ArialBold/ArialBold.eot");
-    src: url("fonts/ArialBold/ArialBold.eot?#iefix")format("embedded-opentype"),
+    src: url("fonts/ArialBold/ArialBold.eot?#iefix") format("embedded-opentype"),
     url("fonts/ArialBold/ArialBold.woff") format("woff"),
     url("fonts/ArialBold/ArialBold.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;
 }
+
 /* font-family: "ArialItalic"; */
 @font-face {
     font-family: "ArialItalic";
     src: url("fonts/ArialItalic/ArialItalic.eot");
-    src: url("fonts/ArialItalic/ArialItalic.eot?#iefix")format("embedded-opentype"),
+    src: url("fonts/ArialItalic/ArialItalic.eot?#iefix") format("embedded-opentype"),
     url("fonts/ArialItalic/ArialItalic.woff") format("woff"),
     url("fonts/ArialItalic/ArialItalic.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;
 }
+
 /* font-family: "ArialBlack"; */
 @font-face {
     font-family: "ArialBlack";
     src: url("fonts/ArialBlack/ArialBlack.eot");
-    src: url("fonts/ArialBlack/ArialBlack.eot?#iefix")format("embedded-opentype"),
+    src: url("fonts/ArialBlack/ArialBlack.eot?#iefix") format("embedded-opentype"),
     url("fonts/ArialBlack/ArialBlack.woff") format("woff"),
     url("fonts/ArialBlack/ArialBlack.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;
 }
+
 /* font-family: "ArialBoldItalic"; */
 @font-face {
     font-family: "ArialBoldItalic";
     src: url("fonts/ArialBoldItalic/ArialBoldItalic.eot");
-    src: url("fonts/ArialBoldItalic/ArialBoldItalic.eot?#iefix")format("embedded-opentype"),
+    src: url("fonts/ArialBoldItalic/ArialBoldItalic.eot?#iefix") format("embedded-opentype"),
     url("fonts/ArialBoldItalic/ArialBoldItalic.woff") format("woff"),
     url("fonts/ArialBoldItalic/ArialBoldItalic.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;
 }
-
 
 #wrapper {
     width: 100%;
@@ -79,7 +82,6 @@ table, caption, tbody, tfoot, thead, tr, th, td {
     padding: 0;
     margin: 0;
 }
-
 
 @media screen and (max-width: 1980px) and (min-width: 1000px) {
     .header_inside,
@@ -94,10 +96,12 @@ table, caption, tbody, tfoot, thead, tr, th, td {
         padding: 0;
         position: relative;
     }
+
     header {
         height: 76px;
         background-color: #3498db;
     }
+
     .logo img {
         width: 49px;
         height: 49px;
@@ -120,10 +124,10 @@ table, caption, tbody, tfoot, thead, tr, th, td {
         float: left;
     }
 
-     header .connect {
+    header .connect {
         position: absolute;
         margin: 22px 0 0 0;
-         right: 0;
+        right: 0;
     }
 
     .connect p {
@@ -281,10 +285,11 @@ table, caption, tbody, tfoot, thead, tr, th, td {
     }
 
     .benefits_inside img {
-        width: 289px;
-        height: 158px;
+        width: 290px;
+        height: 193px;
         margin: 0 20px 20px 0;
     }
+
     .description {
         width: 289px;
         height: 531px;
@@ -462,6 +467,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
         display: inline-block;
         float: left;
     }
+
     .footer_inside .logo a {
         text-decoration: none;
         color: white;
@@ -472,6 +478,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
         padding: 15px 0 0 10px;
 
     }
+
     .footer_inside .connect p {
         display: inline-block;
         padding-left: 20px;
@@ -484,6 +491,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
         padding-left: 20px;
         width: 650px;
     }
+
     .button_top {
         font-size: 25px;
         color: #ffffff;
@@ -501,6 +509,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
         text-align: center;
         padding-top: 35px;
     }
+
     .button_top:hover {
         background-color: rgba(231, 76, 60, 0.67);
     }
@@ -521,6 +530,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
         padding: 0;
         position: relative;
     }
+
     header {
         height: 76px;
         background-color: #3498db;
@@ -706,11 +716,16 @@ table, caption, tbody, tfoot, thead, tr, th, td {
         margin: 40px 0 32px 0;
     }
 
-    .benefits_inside img {
+    .benefits_inside .image {
         width: 289px;
         height: 158px;
         float: left;
         margin: 0 20px 20px 0;
+        overflow: hidden;
+    }
+
+    .benefits_inside img {
+        margin: 0 0 -35px 0;
     }
     .description {
         width: 758px;
@@ -726,7 +741,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
         color: #333333;
         text-align: left;
         width: 758px;
-        margin-bottom: 20px;
+        margin: 20px 0 20px 0;
     }
 
     .description p {
@@ -882,6 +897,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
         display: inline-block;
         float: left;
     }
+
     .footer_inside .logo a {
         text-decoration: none;
         color: white;
@@ -892,6 +908,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
         padding: 10px 0 0 10px;
 
     }
+
     .footer_inside .connect p {
         display: inline-block;
         padding-left: 10px;
@@ -904,6 +921,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
         padding-left: 10px;
         width: 450px;
     }
+
     .button_top {
         font-size: 20px;
         color: #ffffff;
@@ -921,6 +939,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
         text-align: center;
         padding-top: 27px;
     }
+
     .button_top:hover {
         background-color: rgba(231, 76, 60, 0.67);
     }
@@ -942,13 +961,14 @@ table, caption, tbody, tfoot, thead, tr, th, td {
         padding: 0;
         position: relative;
     }
+
     header {
         height: 160px;
         background-color: #3498db;
     }
 
-     header .logo img,
-     header .logo a img  {
+    header .logo img,
+    header .logo a img {
         width: 49px;
         height: 49px;
         border: solid white 1px;
@@ -959,8 +979,8 @@ table, caption, tbody, tfoot, thead, tr, th, td {
         left: 126px;
     }
 
-     header .logo span,
-     header .logo a span  {
+    header .logo span,
+    header .logo a span {
         font-size: 20px;
         color: white;
         display: inline-block;
@@ -1114,11 +1134,10 @@ table, caption, tbody, tfoot, thead, tr, th, td {
     .university_description_inside p {
         font-size: 13px;
         color: #333333;
-        margin: 0 auto;
         line-height: 20px;
         width: 280px;
         text-align: center;
-        margin: 15px 0 15px 0;
+        margin: 15px 0 15px 20px;
     }
 
     .benefits {
@@ -1130,7 +1149,19 @@ table, caption, tbody, tfoot, thead, tr, th, td {
         font-size: 20px;
         color: #3498db;
         text-align: center;
-        margin: 15px 0 15px 0;
+        margin: 30px 0 30px 0;
+    }
+
+    .benefits_inside .image {
+        width: 289px;
+        height: 158px;
+        float: left;
+        margin: 0 20px 20px 0;
+        overflow: hidden;
+    }
+
+    .benefits_inside img {
+        margin: 0 0 -35px 0;
     }
 
     .description {
@@ -1144,7 +1175,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
         font-weight: bold;
         color: #333333;
         text-align: center;
-        margin: 10px 0 10px 0;
+        margin: 25px 0 20px 0;
     }
 
     .description p {
@@ -1153,7 +1184,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
         text-align: center;
         line-height: 20px;
         display: inline-block;
-        margin-bottom: 10px;
+        margin-bottom: 15px;
     }
 
     .description a {
@@ -1270,7 +1301,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
         margin-top: 65px;
         position: absolute;
         z-index: 10;
-        -left: 3%;
+        left: 3%;
     }
 
     .start_inside p {
@@ -1304,7 +1335,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
     }
 
     footer .logo img,
-    footer .logo a img  {
+    footer .logo a img {
         width: 49px;
         height: 49px;
         border: solid white 1px;
@@ -1316,7 +1347,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
     }
 
     footer .logo span,
-    footer .logo a span  {
+    footer .logo a span {
         font-size: 20px;
         color: white;
         display: inline-block;
@@ -1351,6 +1382,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
         text-align: center;
         line-height: 20px;
     }
+
     .button_top {
         font-size: 15px;
         color: #ffffff;
@@ -1368,6 +1400,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
         text-align: center;
         padding-top: 21px;
     }
+
     .button_top:hover {
         background-color: rgba(231, 76, 60, 0.67);
     }
