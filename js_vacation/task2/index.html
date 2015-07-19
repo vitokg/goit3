@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Age</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script type="text/javascript">
+
+        function ageCalculation() {
+            var year = Number(document.getElementById('currentYear').value);
+            var ageFirst=0;
+            var ageSecond=0;
+            var yearBorn=document.getElementById('yearBorn').value;
+            document.getElementById('ageFirst').innerHTML="vfvf";
+            document.getElementById('ageSecond').innerHTML=ageFirst+"";
+        }
+    </script>
+</head>
+<body>
+    <div class="ageCalculation">
+        <form>
+            <input id="currentYear" value="2015"><br><br>
+            <input id="yearBorn" type="text">
+            <input type="button" id="button" onclick="ageCalculation()" value="Рассчитать"><br><br>
+            <input id="ageFirst">
+            <label id="or">или</label>
+            <input id="ageSecond" value="00">
+        </form>
+    </div>
+</body>
+</html>
