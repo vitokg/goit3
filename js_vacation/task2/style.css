@@ -29,9 +29,10 @@ form {
     top: 300px;
 
 }
-input {
+#currentYear,
+#yearBorn {
     width: 300px;
-    height: 50px;
+    height: 47px;
     font-size: 28px;
     border: solid #4b1313 2px;
     border-radius: 5px;
@@ -52,7 +53,6 @@ input {
     color: #ffffff;
     border: none;
 }
-#currentYear,
 #ageFirst,
 #ageSecond {
     width: 100px;
@@ -60,16 +60,14 @@ input {
     background-color: #d19c64;
     font-size: 30px;
     position: relative;
-    padding: 5px 20px 5px 20px;
+    padding: 5px 45px 5px 45px;
 }
 #ageFirst,
 #ageSecond {
     width: 80px;
 }
-#currentYear {
-    left: 80px;
-}
 #or {
     background-color: transparent;
     font-size: 30px;
+    border: none;
 }

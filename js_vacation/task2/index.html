@@ -5,26 +5,31 @@
     <title>Age</title>
     <link rel="stylesheet" type="text/css" href="style.css">
     <script type="text/javascript">
-
+        var year = "2015";
+        var yearBorn="1990";
+        var ageFirst=0;
+        var ageSecond=0;
         function ageCalculation() {
-            var year = Number(document.getElementById('currentYear').value);
-            var ageFirst=0;
-            var ageSecond=0;
-            var yearBorn=document.getElementById('yearBorn').value;
-            document.getElementById('ageFirst').innerHTML="vfvf";
-            document.getElementById('ageSecond').innerHTML=ageFirst+"";
+            document.getElementById('currentYear').innerHTML=year;
+            document.getElementById('yearBorn').innerHTML=yearBorn;
+            ageFirst=year-yearBorn-1;
+            document.getElementById('ageFirst').innerHTML=ageFirst+"";
+            ageSecond=year-yearBorn;
+            document.getElementById('ageSecond').innerHTML=ageSecond+"";
         }
     </script>
 </head>
 <body>
     <div class="ageCalculation">
         <form>
-            <input id="currentYear" value="2015"><br><br>
-            <input id="yearBorn" type="text">
+            <label>Текущий год</label>
+            <label id="currentYear">Текущий год</label><br><br>
+            <label>Год рождения</label>
+            <label id="yearBorn">Год рождения</label><br><br>
             <input type="button" id="button" onclick="ageCalculation()" value="Рассчитать"><br><br>
-            <input id="ageFirst">
+            <label id="ageFirst">00</label>
             <label id="or">или</label>
-            <input id="ageSecond" value="00">
+            <label id="ageSecond">00</label>
         </form>
     </div>
 </body>
