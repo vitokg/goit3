@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Food</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script type="text/javascript">
+        var currentAge="20", maximumAge="80", amountPerDay="1000", amountPerLife=0;
+        function foodCalculation() {
+            document.getElementById('currentAge').innerHTML=currentAge+"";
+            document.getElementById('maximumAge').innerHTML=maximumAge+"";
+            document.getElementById('amountPerDay').innerHTML=amountPerDay+"";
+            amountPerLife=(maximumAge-currentAge)*365*amountPerDay;
+            document.getElementById('amountPerLife').innerHTML=amountPerLife+"грамм";
+        }
+
+    </script>
+</head>
+<body>
+    <div class="foodCalculation">
+        <form>
+        <label id="currentAge">Текущий возраст</label><br><br>
+        <label id="maximumAge">Максимальный возраст</label><br><br>
+        <label id="amountPerDay">Количество еды в день</label><br><br>
+        <input type="button" onclick="foodCalculation()" value="Рассчитать"><br><br>
+        <label id="amountPerLife">Количество до конца жизни</label>
+        </form>
+    </div>
+</body>
+</html>
