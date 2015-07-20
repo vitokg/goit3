@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Converter</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script type="text/javascript">
+        var tempCel=20;
+        var calcTempFar=0;
+        var calcTempCel=0;
+        function fillTemp() {
+            document.getElementById('tempCel').innerHTML=tempCel+"";
+            calcTempFar = (tempCel * 9 + 160) / 5;
+            document.getElementById('calcTempFar').innerHTML=calcTempFar+"";
+            calcTempCel = (calcTempFar * 5 - 160) / 9;
+            document.getElementById('calcTempCel').innerHTML=calcTempCel+"";
+        }
+    </script>
+</head>
+<body>
+<div class="container">
+    <form>
+        <input type="button" value="Заполнить" onclick="fillTemp()"><br><br>
+        <label id="tempCel">00</label>
+        <label id="calcTempFar">00</label>
+        <label id="calcTempCel">00</label>
+    </form>
+</div>
+</body>
+</html>
