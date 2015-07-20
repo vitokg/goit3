@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Donuts</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script type="text/javascript">
+        function updateOrder() {
+            const TAXRATE=0.01;
+            const DONUTPRICE=0.5;
+            var numCakeDonuts = document.getElementById('cakedonuts').value;
+            var numGlazedDonuts=document.getElementById('glazeddonuts').value;
+            var subtotal=(numCakeDonuts+numGlazedDonuts)*DONUTPRICE;
+            var tax=subtotal*TAXRATE;
+            var total=subtotal+tax;
+            document.getElementById('subtotal').value="$"+subtotal;
+            document.getElementById('tax').value="$"+tax;
+            document.getElementById('total').value="$"+total;
+        }
+        function placeOrder() {
+            form.submit();
+        }
+
+    </script>
+</head>
+<body>
+<div id="form">
+    <form name="orderform" action="donats.php" method="post">
+        <div class="field">
+            <label>Форма заказа пончиков</label><br><br>
+            <input type="text" id="customerName" value="" placeholder="Имя"/><br><br>
+            <input type="text" id="cakedonuts" name="cakedonuts" value="" placeholder="Количество обычных пончиков" onchange="updateOrder();"/><br><br>
+            <input type="text" id="glazeddonuts" name="glazeddonuts" value="" placeholder="Количество глазированых пончиков" onchange="updateOrder();"/><br><br>
+            <input type="text" id="time" name="time" value="" placeholder="Время доставки" onchange="updateOrder();"/><br><br>
+            <input type="text" id="subtotal" name="subtotal" value="" placeholder="Промежуточная сумма" onchange="updateOrder();"/><br><br>
+            <input type="text" id="tax" name="tax" value="" placeholder="Налог" onchange="updateOrder();"/><br><br>
+            <input type="text" id="total" name="total" value="" placeholder="Сумма к оплате" onchange="updateOrder();"/><br><br>
+            <input type="button" value="Сделать заказ" onclick="placeOrder(this.form)";/>
+        </div>
+    </form>
+</div>
+</body>
+</html>

@@ -5,31 +5,24 @@
     <title>Age</title>
     <link rel="stylesheet" type="text/css" href="style.css">
     <script type="text/javascript">
-        var year = "2015";
-        var yearBorn="1990";
-        var ageFirst=0;
-        var ageSecond=0;
-        function ageCalculation() {
-            document.getElementById('currentYear').innerHTML=year;
-            document.getElementById('yearBorn').innerHTML=yearBorn;
-            ageFirst=year-yearBorn-1;
-            document.getElementById('ageFirst').innerHTML=ageFirst+"";
-            ageSecond=year-yearBorn;
-            document.getElementById('ageSecond').innerHTML=ageSecond+"";
+            function ageCalculation() {
+                const YEAR = 2015;
+                var yearBorn=document.getElementById('yearBorn').value;
+                var ageFirst=YEAR-yearBorn-1;
+                var ageSecond=YEAR-yearBorn;
+                document.getElementById('ageFirst').value=ageFirst;
+                document.getElementById('ageSecond').value=ageSecond;
         }
     </script>
 </head>
 <body>
     <div class="ageCalculation">
         <form>
-            <label>Текущий год</label>
-            <label id="currentYear">Текущий год</label><br><br>
-            <label>Год рождения</label>
-            <label id="yearBorn">Год рождения</label><br><br>
-            <input type="button" id="button" onclick="ageCalculation()" value="Рассчитать"><br><br>
-            <label id="ageFirst">00</label>
+            <input type="text" id="currentYear" value="2015" placeholder="Текущий год" onchange="ageCalculation()"/><br><br>
+            <input type="text" id="yearBorn" value="" placeholder="Год рождения" onchange="ageCalculation()"/><br><br>
+            <input id="ageFirst" value=""/>
             <label id="or">или</label>
-            <label id="ageSecond">00</label>
+            <input id="ageSecond" value=""/>
         </form>
     </div>
 </body>

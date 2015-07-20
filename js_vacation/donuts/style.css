@@ -1,0 +1,10 @@
+input {
+    width: 350px;
+    background-color: palegoldenrod;
+    height: 30px;
+    font-size: 18px;
+}
+label {
+    font-size: 25px;
+    color: darkgray;
+}
