@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<meta charset="utf-8">
+			<title>How old are you?</title>
+			<link rel="stylesheet" href="stylesheet.css">
+		</head>
+		<body>
+			<script>
+				var current_year=2015, 
+					birth_year_1, 
+					birth_year_2,
+					age_1,
+					age_2;
+
+				birth_year_1=prompt("Enter the year of birth");
+				birth_year_2=prompt("Enter the year of birth");
+				age_1=current_year - birth_year_1;
+				age_2=current_year - birth_year_2;
+
+				alert("They are either " + age_1 + " or "+ age_2);
+			</script>
+		</body>
+	</html>
