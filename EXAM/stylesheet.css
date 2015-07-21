@@ -98,29 +98,32 @@ header{
 	line-height: 27px;
 	}
 
+
+
 .network{
 	width: 22px;
-	height: 22px;
+	height: 21px;
 	display: inline-block;
 	cursor: pointer;
 	}
 
 .social div{
-	background-repeat: no-repeat;
-	background-size: contain;
-	display: inline-block;
+	background-image: url(images/spritesheet.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+    cursor: pointer;
 	}
 
 .fb{
-	background-image: url(images/fb.png);
+    background-position: -5px -5px;
 	}
 
 .gl{
-	background-image: url(images/google.png);
+	 background-position: -37px -5px;
 	}
 
 .tw{
-	background-image: url(images/twitter.png);
+	background-position: -5px -36px;
 	}
 
 .welcome_banner{
@@ -150,12 +153,12 @@ form{
 	background-color: white;
 	position: absolute;
 	left: 62.5%;
-	top:12%;
+	top:107px;
 	font-family: HelveticaRegular;
 	border-bottom:4px solid #3598DB;
 	}
 
-input, select{
+input, select, textarea{
 	display: block;
 	height: 33px;
 	width: 80%;
@@ -190,7 +193,16 @@ legend{
 
 .address{
 	height: 80px;
+	color:black;
 	}
+
+textarea::-webkit-input-placeholder{
+	color:#0F1220;
+}
+
+textarea:-moz-placeholder { 
+	color: #0F1220; 
+}
 
 input:last-child{
 	background-color: #E84C3D;
@@ -381,6 +393,20 @@ blockquote:before {
 	margin-top:-5%;
 	}
 
+	.page_next{
+		background-image: url(images/left.png);
+		background-repeat: no-repeat;
+		background-size: 15px;
+		background-position: 50% 10px;
+	}
+
+	.page_prev{
+		background-image: url(images/right.png);
+		background-repeat: no-repeat;
+		background-size: 15px;
+		background-position: 50% 10px;
+	}
+
 .pages div{
 	width: 40px;
 	height: 40px;
@@ -425,7 +451,7 @@ blockquote:before {
 	}
 
 button:after{
-	content: "\203A";  
+	content: url(images/right.white.png);  
 	font-size: 30px;  
 	border:1px solid #fff;
 	border-radius: 50%;
@@ -521,6 +547,9 @@ footer{
 .legal{
 	margin-left: 1px;
 	color:#fff;
+	position: absolute;
+	left:280px;
+	top:112px;
 	}
 
 @media screen and (max-width:1000px){	
@@ -677,12 +706,13 @@ footer{
 	.social_footer{
 		position: absolute;
 		top:110px;
-		left:320px;
+		left:280px;
 	}
 
 	.legal{
 		margin-left: 1px;
 		color:#fff;
+		top:99px;
 	}
 
 	.boy{
@@ -881,13 +911,17 @@ footer{
 		text-align: center;
 		margin-top: 10px;
 	}
+	
+	.page_next{
+		background-image:url(images/left.png);
+	}
 
 	blockquote{
 		width: 100%;
 		margin-left: auto;
 		margin-right: auto;
 		text-align: justify;
-		padding-top:50px;
+		padding-top:15px;
 		padding-left: 0;
 		position: relative;
 	}
@@ -945,7 +979,7 @@ footer{
 	    line-height: 29px;
 	    vertical-align: middle;
 	    margin-left: 20px;
-	    margin-top: 20px;
+	    margin-top: 5px;
 	   margin-left: auto;
 	   margin-right: auto;
 	}
@@ -978,6 +1012,7 @@ footer{
 		padding: 0;
 		border-bottom: 1px solid #6D82B6;
 		border-right: none;
+		padding-bottom: 10px;
 	}
 
 	footer .social{
@@ -987,11 +1022,14 @@ footer{
 		left:2px;
 		padding: 0;
 		margin: 0;
+		padding-top: 15px;
 	}
 
 	.legal{
-		padding-left: -47px;
+		top:242px;
 		max-width: 320px;
+		left:10px;
+		text-align: center;
 	}
 
 	blockquote:before {  
@@ -1000,7 +1038,7 @@ footer{
     	color: #EAEAEA;   
     	float: left;  
     	position: absolute;  
-    	top: 41px;  
+    	top: 10px;  
     	left:-2px;
     	font-family: arial;
 	}
