@@ -4,30 +4,17 @@
     <meta charset="UTF-8">
     <title>Circle</title>
     <link rel="stylesheet" type="text/css" href="style.css">
-    <script type="text/javascript">
-        var radiusCircle = 150, widthCircle = 0, areaCircle = 0, pi=3.14;
-
-        function calcWidthCircle() {
-            document.getElementById('radiusCircle').innerHTML=radiusCircle+"";
-            widthCircle=2*pi*radiusCircle;
-            document.getElementById('widthCircle').innerHTML=widthCircle+"";
-        }
-        function calcAreaCircle() {
-            document.getElementById('radiusCircle').innerHTML=radiusCircle+"";
-            areaCircle=pi*radiusCircle*radiusCircle;
-            document.getElementById('areaCircle').innerHTML=areaCircle+"";
-        }
-    </script>
+    <script type="text/javascript" src="js.js"></script>
 </head>
 <body>
-<label id="radiusCircle">00</label>
-    <div class="widthCircle" onclick="calcWidthCircle()">
-        <label>Нажимай и узнаешь длину откружности!</label><br><br>
-        <label id="widthCircle">00</label>
-    </div>
-    <div class="areaCircle" onclick="calcAreaCircle()">
-        <label>Нажимай и узнаешь площадь круга!</label><br><br>
-        <label id="areaCircle">00</label>
-    </div>
+    <input type="text" id="radiusCircle" name="radius" value="" onchange="calcWidthAreaCircle()"/>
+        <div class="widthCircle">
+            <label>Длина откружности</label><br><br>
+            <input id="widthCircle"/>
+        </div>
+        <div class="areaCircle">
+            <label>Площадь круга</label><br><br>
+            <input id="areaCircle"/>
+        </div>
 </body>
 </html>
