@@ -8,17 +8,13 @@
 		<body>
 			<script>
 				var current_year=2015, 
-					birth_year_1, 
-					birth_year_2,
-					age_1,
-					age_2;
+					birth_year, 
+					age,
 
-				birth_year_1=prompt("Enter the year of birth");
-				birth_year_2=prompt("Enter the year of birth");
-				age_1=current_year - birth_year_1;
-				age_2=current_year - birth_year_2;
+				birth_year=prompt("Enter the year of birth");
+				age=current_year - birth_year;
 
-				alert("They are either " + age_1 + " or "+ age_2);
+				alert("They are either " + age + " or "+ (age-1));
 			</script>
 		</body>
 	</html>
