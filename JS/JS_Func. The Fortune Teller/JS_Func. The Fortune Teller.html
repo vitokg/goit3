@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<meta charset="utf-8">
+			<title>Fortune seller</title>
+			<link rel="stylesheet" href="stylesheet.css">
+		</head>
+		<body>
+			<script>
+				function tellFortune (children, partner, locacion, job){
+					var prediction="You will be a " + job + " in " + locacion + ", and married to " + partner + " with " + children + " kids.";
+					alert(prediction);
+				}
+
+				tellFortune("1", "Vladimir", "Kiev", "front-end developer");
+				tellFortune("5", "Svetlana", "Kopengagen", "copywriter");
+				tellFortune("21", "Frederico", "Korea", "doctor");
+			</script>
+		</body>
+	</html>

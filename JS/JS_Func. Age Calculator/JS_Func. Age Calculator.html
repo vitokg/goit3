@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<meta charset="utf-8">
+			<title>Age Calculator</title>
+			<link rel="stylesheet" href="stylesheet.css">
+		</head>
+		<body>
+			<script>
+				function calculateAge (birthYear, currentYear){
+					var age=currentYear-birthYear;
+					alert("You are either " + age + " or " + (age-1));
+				}
+
+				calculateAge(prompt("Please, enter the year of birth"), "2015");
+
+			</script>
+		</body>
+	</html>

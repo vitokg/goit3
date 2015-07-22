@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<meta charset="utf-8">
+			<title>Geometrizer</title>
+			<link rel="stylesheet" href="stylesheet.css">
+		</head>
+		<body>
+			<script>
+
+				function Geometrizer (radius){
+					var pi=3.14;
+					var circumference=pi *2 * radius;
+					alert("The circumference is " + circumference)
+
+					var area=pi * radius* radius;
+					alert("The area is " + area);
+				}
+
+				Geometrizer(prompt("Please, enter the radius"));
+
+			</script>
+		</body>
+	</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<meta charset="utf-8">
+			<title>temperature</title>
+			<link rel="stylesheet" href="stylesheet.css">
+		</head>
+		<body>
+			<script>
+
+				function celsiusToFahrenheit (celsius){
+					var celsiusToF=(celsius * 1.8)+32;
+					alert(celsius + " °C is " + celsiusToF +"°F");
+				}
+
+				celsiusToFahrenheit(prompt("Please, enter the celcius temperature"));
+
+				function fahrenheitToCelsius (fahrenheit){
+					var fahrenheitToC=(fahrenheit - 32)* 0.55;
+					alert(fahrenheit + " °F is " + fahrenheitToC +"°C");
+				}
+
+				fahrenheitToCelsius(prompt("Please, enter the fahrenheit temperature"));
+				
+			</script>
+		</body>
+	</html>
