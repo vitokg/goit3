@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>The Pluralizer</title>
+</head>
+<body>
+	<script>
+	function pluralize(num, noun){
+		if (num==1){
+			alert(num+noun);
+		}else if(num>1 && noun!="goose"){
+			alert(num+noun +"s");
+		}else if(noun="goose"){
+			alert(num + "geese");
+		}
+	}
+
+	pluralize(prompt("Enter how much"), prompt("Enter the animal"));
+
+	</script>
+	
+</body>
+</html>

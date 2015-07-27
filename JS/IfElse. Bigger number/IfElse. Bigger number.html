@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>What number's bigger?</title>
+</head>
+<body>
+	<script>
+
+		function greaterNum (number1, number2){
+
+				if (number1>number2){
+					var greater=number1;
+					alert("The greater number of " + number1 + " and " + number2 + " is " + greater);
+				}else if(number1<number2){
+					var greater=number2;
+					alert("The greater number of " + number1 + " and " + number2 + " is " + greater);
+				}else{
+					alert("Your number are equal");
+				}
+		}
+
+		greaterNum(prompt("Please, enter the first number"), prompt("Please, enter the second number"));
+
+	</script>
+	
+</body>
+</html>
