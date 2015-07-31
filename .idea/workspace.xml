@@ -1,9 +1,144 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="770ce27a-80c6-4957-be22-8515c2b51fc2" name="Default" comment="update">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js_vacation/task17/index.html" afterPath="$PROJECT_DIR$/js_vacation/task17/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js_vacation/task17/js.js" afterPath="$PROJECT_DIR$/js_vacation/task17/js.js" />
+    <list default="true" id="770ce27a-80c6-4957-be22-8515c2b51fc2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project/images/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project/images/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project/images/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project_exam/fonts/Arial Cyr Regular/Arial Cyr Regular.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project_exam/fonts/ArialBlack/ArialBlack.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project_exam/fonts/ArialBlack/ArialBlack.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project_exam/fonts/ArialBlack/ArialBlack.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project_exam/fonts/ArialBold/ArialBold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project_exam/fonts/ArialBold/ArialBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project_exam/fonts/ArialBold/ArialBold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project_exam/fonts/ArialBoldItalic/ArialBoldItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project_exam/fonts/ArialBoldItalic/ArialBoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project_exam/fonts/ArialBoldItalic/ArialBoldItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project_exam/fonts/ArialItalic/ArialItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project_exam/fonts/ArialItalic/ArialItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project_exam/fonts/ArialItalic/ArialItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project_exam/fonts/ArialRegular/ArialRegular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project_exam/fonts/ArialRegular/ArialRegular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project_exam/fonts/ArialRegular/ArialRegular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project/fonts/Calibri Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project_exam/fonts/Helvetica-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project/fonts/MyriadPro-Regular.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project/fonts/Trebuchet MS Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson3/task4/images/arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/select/images/arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project_exam/images/arrow_start_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/code review/lesson6_task2_Evgeniya/images/back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project/images/banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson6/task2/images/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/accordion/images/bg_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project_exam/images/bg_banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/accordion/images/bg_checked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/accordion/images/bg_checked_hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/accordion/images/bg_default.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/accordion/images/bg_hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project_exam/images/bg_search_course.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project_exam/images/boy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project_exam/images/card1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson10/task1/images/card1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson11/task1/images/card1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project_exam/images/card2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson10/task1/images/card2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson11/task1/images/card2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project_exam/images/card3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson10/task1/images/card3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson11/task1/images/card3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson10/task1/images/card4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson11/task1/images/card4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson10/task1/images/card5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson11/task1/images/card5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson10/task1/images/card6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson11/task1/images/card6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson6/task2/images/client1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project/images/client1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson6/task2/images/client2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project/images/client2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project/images/client_says.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project/images/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project/images/flag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson5/task2/images/galochka.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson6/task1/images/galochka.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project/images/galochka.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/code review/lesson6_task2_Evgeniya/images/he.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson10/task1/images/link.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson11/task1/images/link.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project/images/linkedin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project_exam/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project/images/mail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project/images/map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project/images/middle_section.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/table/images/ok.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson5/task2/images/ok1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson5/task2/images/ok2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project/images/phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/code review/lesson6_task2_Evgeniya/images/she.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project_exam/images/social_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson6/task2/images/task2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project/images/twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project/fonts/ufonts.com_futurabt-book-opentype.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson10/task1/images/zoom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson11/task1/images/zoom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/code review/lesson6_task2_Evgeniya/Lesson 6.Task2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/accordion/accordion.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/accordion/accordion_style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/columns/columns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/columns/columns_style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/test_media_screen/css/desktop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/box/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson7/task1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project_exam/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/test_media_screen/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/test_media_screen/css/mobile.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/search/search.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/search/search_style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/select/select.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/box/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson7/task1/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project_exam/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/select/style_select.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/table/style_table.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson3/task1/style_task1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson4/task1/style_task1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson8/task1/style_task1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson3/task2/style_task2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson4/task2/style_task2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson8/task2/style_task2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project/style_task2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson4/task3/style_task3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson3/task4/style_task4.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson3/task5/style_task5.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson3/task6/style_task6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/code review/lesson6_task2_Evgeniya/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/table/table.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/test_media_screen/css/tablet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson10/task1/task1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson11/task1/task1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson3/task1/task1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson4/task1/task1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson5/task1/task1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson6/task1/task1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson8/task1/task1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson10/task1/task1_style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson11/task1/task1_style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson5/task1/task1_style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson6/task1/task1_style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson3/task2/task2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson4/task2/task2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson5/task2/task2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson6/task2/task2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson8/task2/task2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/project/task2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson5/task2/task2_style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson4/task3/task3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson3/task4/task4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson3/task5/task5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson3/task6/task6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTML_CSS/lesson6/task2/task6_style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="goit3.iws" />
@@ -400,12 +535,6 @@
       <option name="number" value="Default" />
       <updated>1434191616264</updated>
     </task>
-    <task id="LOCAL-00041" summary="project_exam">
-      <created>1436355187500</created>
-      <option name="number" value="00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1436355187500</updated>
-    </task>
     <task id="LOCAL-00042" summary="project_exam">
       <created>1436375147811</created>
       <option name="number" value="00042" />
@@ -694,7 +823,13 @@
       <option name="project" value="LOCAL" />
       <updated>1438356186309</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="task17">
+      <created>1438358063163</created>
+      <option name="number" value="00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1438358063164</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -734,7 +869,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="lesson7_task2" />
     <MESSAGE value="@search" />
     <MESSAGE value="lesson10_task1" />
     <MESSAGE value="lesson11_task1" />
@@ -759,7 +893,8 @@
     <MESSAGE value="task15" />
     <MESSAGE value="task16" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="task17" />
+    <option name="LAST_COMMIT_MESSAGE" value="task17" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
