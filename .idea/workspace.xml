@@ -2,8 +2,143 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="770ce27a-80c6-4957-be22-8515c2b51fc2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js_vacation/task19/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js_vacation/task19/js.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project/images/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project/images/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project/images/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project_exam/fonts/Arial Cyr Regular/Arial Cyr Regular.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project_exam/fonts/ArialBlack/ArialBlack.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project_exam/fonts/ArialBlack/ArialBlack.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project_exam/fonts/ArialBlack/ArialBlack.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project_exam/fonts/ArialBold/ArialBold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project_exam/fonts/ArialBold/ArialBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project_exam/fonts/ArialBold/ArialBold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project_exam/fonts/ArialBoldItalic/ArialBoldItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project_exam/fonts/ArialBoldItalic/ArialBoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project_exam/fonts/ArialBoldItalic/ArialBoldItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project_exam/fonts/ArialItalic/ArialItalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project_exam/fonts/ArialItalic/ArialItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project_exam/fonts/ArialItalic/ArialItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project_exam/fonts/ArialRegular/ArialRegular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project_exam/fonts/ArialRegular/ArialRegular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project_exam/fonts/ArialRegular/ArialRegular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project/fonts/Calibri Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project_exam/fonts/Helvetica-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project/fonts/MyriadPro-Regular.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project/fonts/Trebuchet MS Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson3/task4/images/arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/select/images/arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project_exam/images/arrow_start_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/code review/lesson6_task2_Evgeniya/images/back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project/images/banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson6/task2/images/bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/accordion/images/bg_active.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project_exam/images/bg_banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/accordion/images/bg_checked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/accordion/images/bg_checked_hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/accordion/images/bg_default.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/accordion/images/bg_hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project_exam/images/bg_search_course.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project_exam/images/boy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project_exam/images/card1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson10/task1/images/card1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson11/task1/images/card1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project_exam/images/card2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson10/task1/images/card2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson11/task1/images/card2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project_exam/images/card3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson10/task1/images/card3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson11/task1/images/card3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson10/task1/images/card4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson11/task1/images/card4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson10/task1/images/card5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson11/task1/images/card5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson10/task1/images/card6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson11/task1/images/card6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson6/task2/images/client1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project/images/client1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson6/task2/images/client2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project/images/client2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project/images/client_says.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project/images/facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project/images/flag.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson5/task2/images/galochka.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson6/task1/images/galochka.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project/images/galochka.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/code review/lesson6_task2_Evgeniya/images/he.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson10/task1/images/link.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson11/task1/images/link.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project/images/linkedin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project_exam/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project/images/mail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project/images/map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project/images/middle_section.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/table/images/ok.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson5/task2/images/ok1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson5/task2/images/ok2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project/images/phone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/code review/lesson6_task2_Evgeniya/images/she.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project_exam/images/social_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson6/task2/images/task2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project/images/twitter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project/fonts/ufonts.com_futurabt-book-opentype.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson10/task1/images/zoom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson11/task1/images/zoom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/code review/lesson6_task2_Evgeniya/Lesson 6.Task2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/accordion/accordion.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/accordion/accordion_style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/columns/columns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/columns/columns_style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/test_media_screen/css/desktop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/box/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson7/task1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project_exam/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/test_media_screen/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/test_media_screen/css/mobile.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/search/search.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/search/search_style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/select/select.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/box/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson7/task1/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project_exam/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/select/style_select.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/table/style_table.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson3/task1/style_task1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson4/task1/style_task1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson8/task1/style_task1.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson3/task2/style_task2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson4/task2/style_task2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson8/task2/style_task2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project/style_task2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson4/task3/style_task3.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson3/task4/style_task4.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson3/task5/style_task5.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson3/task6/style_task6.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/code review/lesson6_task2_Evgeniya/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/table/table.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/test_media_screen/css/tablet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson10/task1/task1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson11/task1/task1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson3/task1/task1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson4/task1/task1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson5/task1/task1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson6/task1/task1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson8/task1/task1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson10/task1/task1_style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson11/task1/task1_style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson5/task1/task1_style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson6/task1/task1_style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson3/task2/task2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson4/task2/task2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson5/task2/task2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson6/task2/task2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson8/task2/task2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/project/task2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson5/task2/task2_style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson4/task3/task3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson3/task4/task4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson3/task5/task5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson3/task6/task6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/HTML_CSS/lesson6/task2/task6_style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="goit3.iws" />
@@ -24,50 +159,7 @@
     <favorites_list name="goit3" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js_vacation/task18/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-7.1923075">
-              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js_vacation/task19/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.09747706">
-              <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="js.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js_vacation/task10/js.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="js.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js_vacation/task19/js.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-              <folding>
-                <element signature="n#!!doc;n#startDay#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -209,7 +301,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -252,29 +343,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js_vacation" />
+              <option name="myItemId" value="nkartovskaya.github.io" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="task19" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goit3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goit3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js_vacation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task18" />
+              <option name="myItemId" value="HTML_CSS" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -289,119 +362,12 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js_vacation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task17" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goit3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goit3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js_vacation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task16" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goit3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goit3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js_vacation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task15" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goit3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goit3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js_vacation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task14" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goit3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goit3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js_vacation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task13" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goit3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goit3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js_vacation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goit3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="goit3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js_vacation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task10" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -479,12 +445,6 @@
       <created>1434191616264</created>
       <option name="number" value="Default" />
       <updated>1434191616264</updated>
-    </task>
-    <task id="LOCAL-00044" summary="lesson11_task1">
-      <created>1436804304543</created>
-      <option name="number" value="00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1436804304543</updated>
     </task>
     <task id="LOCAL-00045" summary="lesson11_task1">
       <created>1436804543364</created>
@@ -774,7 +734,13 @@
       <option name="project" value="LOCAL" />
       <updated>1438359472187</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="task19">
+      <created>1438360532226</created>
+      <option name="number" value="00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1438360532226</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -783,23 +749,23 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24840765" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.083153345" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.5038002" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.083153345" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.4961998" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -814,7 +780,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="lesson10_task1" />
     <MESSAGE value="lesson11_task1" />
     <MESSAGE value="test_media_screen&#10;" />
     <MESSAGE value="project_exam" />
@@ -839,7 +804,8 @@
     <MESSAGE value="task17" />
     <MESSAGE value="update" />
     <MESSAGE value="task18" />
-    <option name="LAST_COMMIT_MESSAGE" value="task18" />
+    <MESSAGE value="task19" />
+    <option name="LAST_COMMIT_MESSAGE" value="task19" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1102,7 +1068,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1110,7 +1075,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.730769">
           <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1118,7 +1082,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.07798165">
           <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1126,7 +1089,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1559633">
           <caret line="8" column="90" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="106" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1134,7 +1096,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.23394495">
           <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1142,17 +1103,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.96213806">
           <caret line="75" column="0" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc;n#nameMonth#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js_vacation/task18/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.1923075">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1160,9 +1110,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.32182628">
           <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding>
-            <element signature="n#!!doc;n#createTable#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1170,7 +1117,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1178,7 +1124,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1186,7 +1131,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="30" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1194,7 +1138,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="21" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1218,8 +1161,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js_vacation/task19/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09747706">
-          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+        <state vertical-scroll-proportion="0.23394495">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js_vacation/task18/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.21444954">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
           <folding />
         </state>
       </provider>
