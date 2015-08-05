@@ -316,11 +316,13 @@ select:focus {
 }
 /* Firefox 19+ */
 
-.registration-form input::-moz-placeholder {
+.registration-form input::-moz-placeholder,
+#addres::-moz-placeholder{
     color: #333333;
     opacity: 1;
     transition: opacity 0.5s ease;
     font-family: "HelveticaRegular";
+    font-weight: bold;
 }
 /* Firefox 18- */
 
@@ -329,6 +331,7 @@ select:focus {
     color: #333333;
     opacity: 1;
     transition: opacity 0.5s ease;
+    font-weight: bold;
 }
 
 .registration-form input:-ms-input-placeholder,
@@ -345,7 +348,8 @@ select:focus {
 }
 /* Firefox 19+ */
 
-.registration-form input:focus::-moz-placeholder {
+.registration-form input:focus::-moz-placeholder,
+#addres:focus::-moz-placeholder{
     opacity: 0;
     transition: opacity 0.5s ease;
 }
@@ -359,7 +363,6 @@ select:focus {
 
 .registration-form input:focus:-ms-input-placeholder,
 #addres:focus:-ms-input-placeholder {
-    color: transparent;
     opacity: 0;
     transition: opacity 0.5s ease;
 }
