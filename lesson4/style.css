@@ -1,0 +1,28 @@
+.nav {
+    list-style-type:none;
+    margin:0px;
+    padding:0px;
+    text-align:center;
+    font: Impact;
+    background-color:#8A2BE2;
+}
+.nav ul {
+    width:900px;
+    margin:0 auto;
+}
+.nav li {
+    display:inline;
+    cursor:pointer;
+    font-family:Impact;
+}
+.nav a{
+    display:inline-block;
+    color:white;
+    text-transform:uppercase;
+    text-decoration:none;
+    padding:10px;
+}
+nav a:hover {
+    background-color:white;
+    color:grey;
+}

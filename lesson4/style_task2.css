@@ -1,0 +1,25 @@
+.nav ul {
+    list-style:none;
+    margin:0 auto;
+    padding:10px;
+}
+.nav li {
+    float:left;
+}
+.nav li a {
+    display:block;
+    padding:10px;
+    background-color:#8A2BE2;
+    color:white;
+    font-family:Impact;
+    font-weight:normal;
+    text-transform:uppercase;
+    text-decoration:none;
+}
+nav a:hover {
+    background-color:white;
+    color:grey;
+}
+ul li .more {
+    float:right;
+}
