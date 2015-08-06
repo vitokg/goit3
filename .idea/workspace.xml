@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="770ce27a-80c6-4957-be22-8515c2b51fc2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson1/task2/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson1/task1/index.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson1/task1/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -28,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson1/task1/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2122588">
-              <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+            <state vertical-scroll-proportion="0.27014756">
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -352,12 +351,6 @@
       <option name="number" value="Default" />
       <updated>1434191616264</updated>
     </task>
-    <task id="LOCAL-00050" summary="project_exam">
-      <created>1436973522003</created>
-      <option name="number" value="00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1436973522368</updated>
-    </task>
     <task id="LOCAL-00051" summary="box">
       <created>1436975235334</created>
       <option name="number" value="00051" />
@@ -646,7 +639,13 @@
       <option name="project" value="LOCAL" />
       <updated>1438845307789</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="lesson1_task1">
+      <created>1438846229771</created>
+      <option name="number" value="00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1438846229779</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -707,7 +706,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="test_media_screen&#10;" />
     <MESSAGE value="project_exam" />
     <MESSAGE value="box" />
     <MESSAGE value="js_task2" />
@@ -732,7 +730,8 @@
     <MESSAGE value="task18" />
     <MESSAGE value="task19" />
     <MESSAGE value="js_main" />
-    <option name="LAST_COMMIT_MESSAGE" value="js_main" />
+    <MESSAGE value="lesson1_task1" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson1_task1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1099,8 +1098,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson1/task1/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2122588">
-          <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+        <state vertical-scroll-proportion="0.27014756">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
           <folding />
         </state>
       </provider>
