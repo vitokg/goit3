@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="770ce27a-80c6-4957-be22-8515c2b51fc2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson2/task1/js.js" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson2/task1/js.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="goit3.iws" />
@@ -497,12 +496,6 @@
       <option name="number" value="Default" />
       <updated>1434191616264</updated>
     </task>
-    <task id="LOCAL-00057" summary="update">
-      <created>1437038942204</created>
-      <option name="number" value="00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1437038942205</updated>
-    </task>
     <task id="LOCAL-00058" summary="update">
       <created>1437064048719</created>
       <option name="number" value="00058" />
@@ -791,7 +784,13 @@
       <option name="project" value="LOCAL" />
       <updated>1438960666733</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="lesson2_task1">
+      <created>1438961019001</created>
+      <option name="number" value="00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1438961019001</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -831,7 +830,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="js_task2" />
     <MESSAGE value="js_task3" />
     <MESSAGE value="js_task4" />
     <MESSAGE value="js_vacation" />
@@ -856,7 +854,8 @@
     <MESSAGE value="lesson1_task2" />
     <MESSAGE value="functions" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="lesson2_task1" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson2_task1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
