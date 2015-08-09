@@ -3,9 +3,8 @@
  */
 
 function pluralize() {
-    var number=parseInt(document.getElementById('number').value);
-    var animal=document.getElementsByName('animal').checked;
-    if (number==1) {
+    var number = parseInt(document.getElementById('number').value);
+    if (number == 1) {
         if (document.getElementsByName('animal')[0].checked) {
             document.getElementById('result').value=number+" "+'cat';
         } else if (document.getElementsByName('animal')[1].checked) {
