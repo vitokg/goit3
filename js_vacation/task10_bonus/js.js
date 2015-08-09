@@ -3,24 +3,46 @@
  */
 
 function pluralize() {
-    var number = parseInt(document.getElementById('number').value);
-    if (number == 1) {
+    var numberFirst = parseInt(document.getElementById('numberFirst').value);
+    var numberSecond = parseInt(document.getElementById('numberSecond').value);
+    var resultFirst, resultSecond;
+    if (numberFirst == 1) {
         if (document.getElementsByName('animal')[0].checked) {
-            document.getElementById('result').value=number+" "+'cat';
+            resultFirst = numberFirst + " " + 'cat';
         } else if (document.getElementsByName('animal')[1].checked) {
-            document.getElementById('result').value=number+" "+'dog';
+            resultFirst = numberFirst + " " + 'dog';
         } else if (document.getElementsByName('animal')[2].checked) {
-            document.getElementById('result').value=number+" "+'sheep';
+            resultFirst = numberFirst + " " + 'sheep';
         } else  if (document.getElementsByName('animal')[3].checked) {
-            document.getElementById('result').value=number+" "+'goose';
+            resultFirst = numberFirst + " " + 'goose';
         }
     } else if (document.getElementsByName('animal')[0].checked) {
-        document.getElementById('result').value=number+" "+'cats';
+        resultFirst = numberFirst + " " + 'cats';
     } else if (document.getElementsByName('animal')[1].checked) {
-        document.getElementById('result').value=number+" "+'dogs';
+        resultFirst = numberFirst + " " + 'dogs';
     } else if (document.getElementsByName('animal')[2].checked) {
-        document.getElementById('result').value=number+" "+'sheeps';
+        resultFirst = numberFirst + " " + 'sheeps';
     } else  if (document.getElementsByName('animal')[3].checked) {
-        document.getElementById('result').value=number+" "+'geese';
+        resultFirst = numberFirst + " " + 'geese';
     }
+    if (numberSecond == 1) {
+        if (document.getElementsByName('animalPlus')[0].checked) {
+            resultSecond = numberSecond + " " + 'cat';
+        } else if (document.getElementsByName('animalPlus')[1].checked) {
+            resultSecond = numberSecond + " " + 'dog';
+        } else if (document.getElementsByName('animalPlus')[2].checked) {
+            resultSecond = numberSecond + " " + 'sheep';
+        } else  if (document.getElementsByName('animalPlus')[3].checked) {
+            resultSecond = numberSecond + " " + 'goose';
+        }
+    } else if (document.getElementsByName('animalPlus')[0].checked) {
+        resultSecond = numberSecond + " " + 'cats';
+    } else if (document.getElementsByName('animalPlus')[1].checked) {
+        resultSecond = numberSecond + " " + 'dogs';
+    } else if (document.getElementsByName('animalPlus')[2].checked) {
+        resultSecond = numberSecond + " " + 'sheeps';
+    } else  if (document.getElementsByName('animalPlus')[3].checked) {
+        resultSecond = numberSecond + " " + 'geese';
+    }
+    document.getElementById('result').value=resultFirst + " " + resultSecond;
 }
