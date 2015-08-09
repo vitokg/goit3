@@ -4,7 +4,7 @@
 
 var firstChoice=new Array (1, 'blue', 'Johnson', 'cat');
 var secondChoice=new Array (2, 'red', 'Smith', 'dog');
-var thirdChoice=new Array (3, 'yellow', 'Grant');
+var thirdChoice=new Array (3, 'yellow', 'Grant', 'mouse');
 function yourChoice() {
     var choice = parseInt(document.getElementById('numberChoice').value);
     if (choice==1) {
