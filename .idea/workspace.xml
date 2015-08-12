@@ -36,8 +36,8 @@
       <file leaf-file-name="js.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson3/task2/js.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34075725">
-              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.30289534">
+              <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -405,12 +405,6 @@
       <option name="number" value="Default" />
       <updated>1434191616264</updated>
     </task>
-    <task id="LOCAL-00086" summary="task14">
-      <created>1437982924119</created>
-      <option name="number" value="00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1437982924135</updated>
-    </task>
     <task id="LOCAL-00087" summary="task15">
       <created>1437993533161</created>
       <option name="number" value="00087" />
@@ -699,7 +693,13 @@
       <option name="project" value="LOCAL" />
       <updated>1439382255561</updated>
     </task>
-    <option name="localTasksCounter" value="135" />
+    <task id="LOCAL-00135" summary="lesson3_task2">
+      <created>1439382303272</created>
+      <option name="number" value="00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1439382303272</updated>
+    </task>
+    <option name="localTasksCounter" value="136" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -780,12 +780,12 @@
     <MESSAGE value="lesson3_task5" />
     <MESSAGE value="lesson3_task4" />
     <MESSAGE value="lesson3_task3" />
-    <MESSAGE value="lesson3_task2" />
     <MESSAGE value="lesson3_task6" />
     <MESSAGE value="lesson2_task4" />
     <MESSAGE value="lesson2_task5" />
     <MESSAGE value="lesson3_task1" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson3_task1" />
+    <MESSAGE value="lesson3_task2" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson3_task2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1157,8 +1157,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson3/task2/js.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34075725">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.30289534">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
