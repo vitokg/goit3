@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="770ce27a-80c6-4957-be22-8515c2b51fc2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson3/task5/js.js" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson3/task5/js.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson3/task6/js.js" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson3/task6/js.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="goit3.iws" />
@@ -44,11 +44,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="js.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="js.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson3/task5/js.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30289534">
+            <state vertical-scroll-proportion="0.0">
               <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="js.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson3/task6/js.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.37861916">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -124,7 +136,6 @@
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson2/task7/index.html" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson2/task7/js.js" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson3/task6/index.html" />
-        <option value="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson3/task6/js.js" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson2/task4/js.js" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson2/task5/js.js" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson3/task1/js.js" />
@@ -132,6 +143,7 @@
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson3/task4/js.js" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson3/task2/js.js" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson3/task5/js.js" />
+        <option value="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson3/task6/js.js" />
       </list>
     </option>
   </component>
@@ -468,12 +480,6 @@
       <option name="number" value="Default" />
       <updated>1434191616264</updated>
     </task>
-    <task id="LOCAL-00091" summary="update">
-      <created>1438358147961</created>
-      <option name="number" value="00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1438358147961</updated>
-    </task>
     <task id="LOCAL-00092" summary="task18">
       <created>1438359472187</created>
       <option name="number" value="00092" />
@@ -762,7 +768,13 @@
       <option name="project" value="LOCAL" />
       <updated>1439382496650</updated>
     </task>
-    <option name="localTasksCounter" value="140" />
+    <task id="LOCAL-00140" summary="lesson3_task5">
+      <created>1439382554840</created>
+      <option name="number" value="00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1439382554840</updated>
+    </task>
+    <option name="localTasksCounter" value="141" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -840,7 +852,6 @@
     <MESSAGE value="task21" />
     <MESSAGE value="lesson2_task6" />
     <MESSAGE value="lesson2_task7" />
-    <MESSAGE value="lesson3_task5" />
     <MESSAGE value="lesson3_task6" />
     <MESSAGE value="lesson2_task4" />
     <MESSAGE value="lesson2_task5" />
@@ -848,7 +859,8 @@
     <MESSAGE value="lesson3_task3" />
     <MESSAGE value="lesson3_task4" />
     <MESSAGE value="lesson3_task2" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson3_task2" />
+    <MESSAGE value="lesson3_task5" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson3_task5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1118,13 +1130,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson3/task6/js.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20824054">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson2/task5/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1231,8 +1236,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson3/task5/js.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30289534">
+        <state vertical-scroll-proportion="0.0">
           <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson3/task6/js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37861916">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
