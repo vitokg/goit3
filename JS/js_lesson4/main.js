@@ -31,11 +31,7 @@ function exercise2() {
     //Running script
     function checkSpam(string) {
         var toUpper = string.toUpperCase();
-        if (~toUpper.indexOf('SEX') || ~toUpper.indexOf('SPAM')) {
-            return true;
-        } else {
-            return false;
-        }
+        (~toUpper.indexOf('SEX') || ~toUpper.indexOf('SPAM')) ? alert(true): alert(false);
 
     }
 
@@ -50,12 +46,10 @@ function exercise3() {
 
     //Running script
     var getString = prompt('Введите строку', '');
-    if (getString.length <= 20) {
-        alert(getString);
-    } else {
+    if (getString.length >= 20) {
         getString = getString.substring(0, 20) + " ...";
-        alert(getString);
     }
+    alert(getString);
 }
 
 ////Задание 4
