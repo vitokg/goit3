@@ -511,12 +511,6 @@
       <option name="number" value="Default" />
       <updated>1434191616264</updated>
     </task>
-    <task id="LOCAL-00125" summary="lesson3_task5">
-      <created>1439230072510</created>
-      <option name="number" value="00125" />
-      <option name="project" value="LOCAL" />
-      <updated>1439230072510</updated>
-    </task>
     <task id="LOCAL-00126" summary="lesson3_task5">
       <created>1439230267650</created>
       <option name="number" value="00126" />
@@ -805,7 +799,13 @@
       <option name="project" value="LOCAL" />
       <updated>1441109657000</updated>
     </task>
-    <option name="localTasksCounter" value="174" />
+    <task id="LOCAL-00174" summary="lesson7">
+      <created>1441119546672</created>
+      <option name="number" value="00174" />
+      <option name="project" value="LOCAL" />
+      <updated>1441119546672</updated>
+    </task>
+    <option name="localTasksCounter" value="175" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -866,7 +866,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="lesson3_task1" />
     <MESSAGE value="lesson3_task9" />
     <MESSAGE value="lesson3_task8" />
     <MESSAGE value="lesson3_task10" />
@@ -891,7 +890,8 @@
     <MESSAGE value="lesson7_task2" />
     <MESSAGE value="lesson7_task1" />
     <MESSAGE value="lesson8_task1" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson8_task1" />
+    <MESSAGE value="lesson7" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
