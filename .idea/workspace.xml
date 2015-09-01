@@ -4,48 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson4/task1/js.js" line="47" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="770ce27a-80c6-4957-be22-8515c2b51fc2" name="Default" comment="lesson7_task2">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson6/task10/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson6/task11/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson6/task12/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson6/task1_extra/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson6/task2_extra/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson6/task3_extra/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson6/task8/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson6/task9/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson7/task1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson7/task2/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson7/task3/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson8/task1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson8/task2/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson8/task3/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson8/task4/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/task4_extra/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/test/test_closure/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/test/test_learn_js/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/test/test_lesson7/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/test/test_lesson_5_6/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/test/test_function/index_closure.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson6/task10/js.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson6/task11/js.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson6/task12/js.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson6/task1_extra/js.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson6/task2_extra/js.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson6/task3_extra/js.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson6/task8/js.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson6/task9/js.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson7/task1/js.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson7/task2/js.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson7/task3/js.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson8/task1/js.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson8/task2/js.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson8/task3/js.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson8/task4/js.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/task4_extra/js.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson6/task6/index.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson6/task6/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson6/task7/index.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson6/task7/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson6/task6/js.js" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson6/task6/js.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson6/task7/js.js" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson6/task7/js.js" />
+    <list default="true" id="770ce27a-80c6-4957-be22-8515c2b51fc2" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson7/task3/js.js" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson7/task3/js.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson8/task1/js.js" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson8/task1/js.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="goit3.iws" />
@@ -67,11 +28,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="js.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson7/task1/js.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson7/task3/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7004454">
-              <caret line="37" column="44" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
+            <state vertical-scroll-proportion="-3.2692308">
+              <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="js.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson7/task3/js.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="js.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson8/task1/js.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.8674833">
+              <caret line="55" column="37" selection-start-line="55" selection-start-column="37" selection-end-line="55" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -144,15 +127,15 @@
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson8/task3/js.js" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson8/task4/index.html" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson8/task4/js.js" />
-        <option value="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson8/task1/js.js" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/js_main/test/test_lesson7/index.html" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson7/task2/index.html" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson7/task2/js.js" />
-        <option value="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson7/task3/js.js" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson7/task3/index.html" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson8/task2/js.js" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/js_main/test/test_learn_js/index.html" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson7/task1/js.js" />
+        <option value="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson7/task3/js.js" />
+        <option value="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson8/task1/js.js" />
       </list>
     </option>
   </component>
@@ -308,7 +291,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lesson7" />
+              <option name="myItemId" value="lesson8" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -330,7 +313,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lesson7" />
+              <option name="myItemId" value="lesson8" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -432,12 +415,6 @@
       <created>1434191616264</created>
       <option name="number" value="Default" />
       <updated>1434191616264</updated>
-    </task>
-    <task id="LOCAL-00123" summary="lesson2_task6">
-      <created>1439220174306</created>
-      <option name="number" value="00123" />
-      <option name="project" value="LOCAL" />
-      <updated>1439220174306</updated>
     </task>
     <task id="LOCAL-00124" summary="lesson2_task7">
       <created>1439220476808</created>
@@ -727,7 +704,13 @@
       <option name="project" value="LOCAL" />
       <updated>1440327632592</updated>
     </task>
-    <option name="localTasksCounter" value="172" />
+    <task id="LOCAL-00172" summary="lesson7_task1">
+      <created>1441109065815</created>
+      <option name="number" value="00172" />
+      <option name="project" value="LOCAL" />
+      <updated>1441109065836</updated>
+    </task>
+    <option name="localTasksCounter" value="173" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -736,6 +719,7 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.248394" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.083153345" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.5038002" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -745,7 +729,6 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.083153345" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.4961998" order="5" side_tool="false" content_ui="tabs" />
@@ -788,7 +771,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="lesson3_task6" />
     <MESSAGE value="lesson3_task7" />
     <MESSAGE value="lesson3_task1" />
     <MESSAGE value="lesson3_task9" />
@@ -813,7 +795,8 @@
     <MESSAGE value="lesson6_task4" />
     <MESSAGE value="lesson6_task5" />
     <MESSAGE value="lesson7_task2" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson7_task2" />
+    <MESSAGE value="lesson7_task1" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson7_task1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1038,6 +1021,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1045,6 +1029,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1052,6 +1037,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="0" selection-start-line="7" selection-start-column="8" selection-end-line="11" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1059,6 +1045,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1066,6 +1053,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1073,6 +1061,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1080,6 +1069,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1087,6 +1079,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1094,6 +1087,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.49311927">
           <caret line="56" column="9" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1109,6 +1103,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.10691824">
           <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1136,40 +1131,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson7/task3/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09747706">
-          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson7/task3/js.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64365256">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson7/task2/js.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34075725">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson8/task1/js.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6057907">
-          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson7/task1/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.2692308">
@@ -1186,10 +1147,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson7/task2/js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.34075725">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson7/task1/js.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7004454">
           <caret line="37" column="44" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson7/task3/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2692308">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson7/task3/js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson8/task1/js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8674833">
+          <caret line="55" column="37" selection-start-line="55" selection-start-column="37" selection-end-line="55" selection-end-column="37" />
           <folding />
         </state>
       </provider>
