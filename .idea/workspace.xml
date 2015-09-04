@@ -4,20 +4,8 @@
     <bookmark url="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson4/task1/js.js" line="47" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="770ce27a-80c6-4957-be22-8515c2b51fc2" name="Default" comment="lesson9_task1">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson10/task1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson9/task2/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson9/task3/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson9/task4/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson9/task5/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson10/task1/js.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson9/task2/js.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson9/task3/js.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson9/task4/js.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson9/task5/js.js" />
+    <list default="true" id="770ce27a-80c6-4957-be22-8515c2b51fc2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\Homework\goit3\nkartovskaya.github.io\js_main\task4_extra\index.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson6/task4_extra/index.html" />
-      <change type="MOVED" beforePath="D:\Homework\goit3\nkartovskaya.github.io\js_main\task4_extra\js.js" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson6/task4_extra/js.js" />
     </list>
     <ignored path="goit3.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,8 +39,8 @@
       <file leaf-file-name="js.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson10/task1/js.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.92761695">
-              <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.83296216">
+              <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -396,12 +384,6 @@
       <option name="number" value="Default" />
       <updated>1434191616264</updated>
     </task>
-    <task id="LOCAL-00129" summary="lesson3_task2">
-      <created>1439230324887</created>
-      <option name="number" value="00129" />
-      <option name="project" value="LOCAL" />
-      <updated>1439230324887</updated>
-    </task>
     <task id="LOCAL-00130" summary="lesson3_task1">
       <created>1439230349818</created>
       <option name="number" value="00130" />
@@ -690,15 +672,22 @@
       <option name="project" value="LOCAL" />
       <updated>1441209553827</updated>
     </task>
-    <option name="localTasksCounter" value="178" />
+    <task id="LOCAL-00178" summary="lesson10_task1">
+      <created>1441351423488</created>
+      <option name="number" value="00178" />
+      <option name="project" value="LOCAL" />
+      <updated>1441351423511</updated>
+    </task>
+    <option name="localTasksCounter" value="179" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="950" height="1034" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.248394" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.248394" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.083153345" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.5038002" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -708,7 +697,6 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.083153345" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.4961998" order="5" side_tool="false" content_ui="tabs" />
@@ -730,7 +718,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="lesson4_task2" />
     <MESSAGE value="lesson4_task4" />
     <MESSAGE value="task 22" />
     <MESSAGE value="task23" />
@@ -755,7 +742,8 @@
     <MESSAGE value="lesson8" />
     <MESSAGE value="lesson8_task4" />
     <MESSAGE value="lesson9_task1" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson9_task1" />
+    <MESSAGE value="lesson10_task1" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson10_task1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1023,6 +1011,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.2271715">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1030,6 +1019,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.09747706">
           <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1037,6 +1027,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.5384617">
           <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1044,6 +1035,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8674833">
           <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1128,8 +1120,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson10/task1/js.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.92761695">
-          <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.83296216">
+          <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
           <folding />
         </state>
       </provider>
