@@ -1,15 +1,23 @@
-#wrapper {
+#gridContainer {
     width: 900px;
-    height: 800px;
+    height: 860px;
     margin: 0 auto;
     background-color: #b1b1b1;
 }
-.square {
-    width: 290px;
-    background-color: #7aba24;
+
+#gridContainer > div {
+    position: absolute;
+    width: 291px;
     border: solid #528019 2px;
-    margin: 2px;
-    border-radius: 5px;
+    border-radius: 7px;
     color: #6d6d6d;
     font-size: 25px;
+}
+
+#gridContainer > div:nth-child(2n+0) {
+    background-color: #7aba24;
+}
+
+#gridContainer > div:nth-child(2n+1) {
+    background-color: #a1f02b;
 }
