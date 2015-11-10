@@ -5,11 +5,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="770ce27a-80c6-4957-be22-8515c2b51fc2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/images/plat_dor_UAH.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/images/recipients.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/directory_banks.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/directory_recipient.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/authorities.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/authorization.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/authorization_list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/cfk_profile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/change_password.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/data.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/employee_authorities.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/employees.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/fidomarket.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/fidomarket_ul.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/ip_filter.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/sigh_in.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/sigh_up.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/sms_email.html" />
+      <change type="DELETED" beforePath="D:\Homework\goit3\nkartovskaya.github.io\projects\fidomarket\banking\security.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/account_details.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/account_details.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/application_buy.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/application_buy.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/application_buy_details.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/application_buy_details.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/application_exchange.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/application_exchange.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/application_exchange_details.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/application_exchange_details.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/application_sale.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/application_sale.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/application_sale_details.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/application_sale_details.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/directory.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/directory.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/directory_banks.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/directory_banks.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/directory_recipient.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/directory_recipient.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/help.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/help.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/index.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson17/task3/js.js" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson17/task3/js.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/letter_details.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/letter_details.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/mail.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/mail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/main.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/main.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/new_application_buy.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/new_application_buy.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/new_application_exchange.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/new_application_exchange.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/new_application_sale.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/new_application_sale.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/new_letter.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/new_letter.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/new_payment_UAH.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/new_payment_UAH.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/new_payment_currency.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/new_payment_currency.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/new_salary.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/new_salary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/payment_UAH_details.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/payment_UAH_details.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/payment_currency_detail.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/payment_currency_detail.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/payments_UAH.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/payments_UAH.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/payments_currency.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/payments_currency.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/profile.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/profile.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/salary.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/salary.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/salary_details.html" afterPath="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/salary_details.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="goit3.iws" />
@@ -34,17 +74,9 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.538462">
-              <caret line="76" column="4" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="4" />
-              <folding>
-                <element signature="n#style#0;n#td#0;n#tr#0;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#1;n#tr#0;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#2;n#tr#0;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#1;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#1;n#tr#1;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#2;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#1;n#tr#2;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -52,8 +84,8 @@
       <file leaf-file-name="new_payment_UAH.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/new_payment_UAH.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-22.115385">
-              <caret line="116" column="85" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="90" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="118" column="28" selection-start-line="118" selection-start-column="24" selection-end-line="118" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -62,18 +94,68 @@
       <file leaf-file-name="directory_banks.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/directory_banks.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.6153846">
-              <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="65" column="9" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="directory_recipient.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="directory.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/directory.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson17/task3/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="js.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson17/task3/js.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.12878788">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="js.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson17/task2/js.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="directory_recipient.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/directory_recipient.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8296214">
-              <caret line="110" column="37" selection-start-line="110" selection-start-column="37" selection-end-line="110" selection-end-column="37" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="85" column="22" selection-start-line="82" selection-start-column="17" selection-end-line="90" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -118,7 +200,6 @@
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson17/task2/index.html" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson17/task2/js.js" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson17/task3/index.html" />
-        <option value="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson17/task3/js.js" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/projects/challenge/ocean/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/projects/challenge/ocean/index.html" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/images/account_details.html" />
@@ -129,7 +210,6 @@
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/application_buy_details.html" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/application_exchange_details.html" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/application_sale_details.html" />
-        <option value="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/directory.html" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/help.html" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/letter_details.html" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/mail.html" />
@@ -144,7 +224,6 @@
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/profile.html" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/salary_details.html" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/security.html" />
-        <option value="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/style.css" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/payments_UAH.html" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/payments_currency.html" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/salary.html" />
@@ -152,9 +231,12 @@
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/application_exchange.html" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/application_sale.html" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/main.html" />
-        <option value="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/directory_banks.html" />
-        <option value="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/new_payment_UAH.html" />
         <option value="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/directory_recipient.html" />
+        <option value="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/style.css" />
+        <option value="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/new_payment_UAH.html" />
+        <option value="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/directory_banks.html" />
+        <option value="$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/directory.html" />
+        <option value="$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson17/task3/js.js" />
       </list>
     </option>
   </component>
@@ -269,18 +351,6 @@
               <option name="myItemId" value="nkartovskaya.github.io" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="projects" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fidomarket" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="banking" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -295,11 +365,15 @@
               <option name="myItemId" value="nkartovskaya.github.io" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js_main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -391,24 +465,6 @@
       <created>1434191616264</created>
       <option name="number" value="Default" />
       <updated>1434191616264</updated>
-    </task>
-    <task id="LOCAL-00151" summary="update">
-      <created>1439797842533</created>
-      <option name="number" value="00151" />
-      <option name="project" value="LOCAL" />
-      <updated>1439797842534</updated>
-    </task>
-    <task id="LOCAL-00152" summary="update">
-      <created>1439797930209</created>
-      <option name="number" value="00152" />
-      <option name="project" value="LOCAL" />
-      <updated>1439797930209</updated>
-    </task>
-    <task id="LOCAL-00153" summary="task23">
-      <created>1439824098529</created>
-      <option name="number" value="00153" />
-      <option name="project" value="LOCAL" />
-      <updated>1439824098529</updated>
     </task>
     <task id="LOCAL-00154" summary="update">
       <created>1439898847253</created>
@@ -686,7 +742,25 @@
       <option name="project" value="LOCAL" />
       <updated>1446565504243</updated>
     </task>
-    <option name="localTasksCounter" value="200" />
+    <task id="LOCAL-00200" summary="updates">
+      <created>1446713361885</created>
+      <option name="number" value="00200" />
+      <option name="project" value="LOCAL" />
+      <updated>1446713361899</updated>
+    </task>
+    <task id="LOCAL-00201" summary="updates">
+      <created>1446720652025</created>
+      <option name="number" value="00201" />
+      <option name="project" value="LOCAL" />
+      <updated>1446720652025</updated>
+    </task>
+    <task id="LOCAL-00202" summary="updates">
+      <created>1446720955255</created>
+      <option name="number" value="00202" />
+      <option name="project" value="LOCAL" />
+      <updated>1446720955255</updated>
+    </task>
+    <option name="localTasksCounter" value="203" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -697,21 +771,21 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295688" sideWeight="0.5038002" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32983193" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.083153345" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.0" sideWeight="0.4961998" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -834,27 +908,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson17/task3/js.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11038961">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson17/task3/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson17/task2/js.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2391775">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson17/task1/js.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3495671">
@@ -918,13 +971,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/directory.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-29.961538">
-          <caret line="74" column="4" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/help.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-29.961538">
@@ -981,13 +1027,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/security.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8674833">
-          <caret line="74" column="4" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/salary_details.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.94654787">
@@ -1030,14 +1069,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/images/directory.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1047,7 +1078,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1055,7 +1085,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="106" column="0" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1063,7 +1092,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="106" column="0" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1071,7 +1099,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="106" column="0" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1079,7 +1106,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="106" column="0" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1087,7 +1113,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="106" column="0" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1095,48 +1120,77 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="106" column="0" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
-          <folding>
-            <element signature="n#tr#2;n#table#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.538462">
-          <caret line="76" column="4" selection-start-line="76" selection-start-column="4" selection-end-line="76" selection-end-column="4" />
-          <folding>
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#1;n#tr#0;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#2;n#tr#0;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#1;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#1;n#tr#1;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#2;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#1;n#tr#2;n#table#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/directory_banks.html">
+    <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.6153846">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/new_payment_UAH.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.115385">
-          <caret line="116" column="85" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="90" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="118" column="28" selection-start-line="118" selection-start-column="24" selection-end-line="118" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/directory_recipient.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8296214">
-          <caret line="110" column="37" selection-start-line="110" selection-start-column="37" selection-end-line="110" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="85" column="22" selection-start-line="82" selection-start-column="17" selection-end-line="90" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/directory_banks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="65" column="9" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/projects/fidomarket/banking/directory.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson17/task3/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson17/task2/js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nkartovskaya.github.io/js_main/lesson17/task3/js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12878788">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
           <folding />
         </state>
       </provider>
